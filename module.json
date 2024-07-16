@@ -1,0 +1,27 @@
+{
+  "id": "dc20-spanish",
+  "title": "DC20 spanish translation",
+  "description": "Your module description.",
+  "authors": [
+    {
+      "name": "TebyTeb"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "label": "Reglas",
+  "entries": {
+    "Actions": {
+      "name": "Acciones",
+      "pages": {
+        "Attack": {
+          "name": "Ataque",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para realizar 1 <strong>Chequeo de Ataque</strong>.</p>"
+        },
+        "Disarm": {
+          "name": "Desarmar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para realizar un <strong>Chequeo de Ataque</strong> enfrentado al <strong>Chequeo de Atletismo</strong>, <strong>Acrobacias</strong> o <strong>Latrocinio</strong> del objetivo (a elección del objetivo); el objetivo tiene VENTAJA si está sosteniendo el objeto con las 2 manos. Tienes DESVENTAJA si el objetivo es más grande que tú. No puedes desarmar a una criatura que sea 2 tamaños más grande que tú.<br /><br /><strong>Éxito:</strong> El objeto objetivo cae en un espacio desocupado de tu elección a 1 espacio de distancia de la criatura.</p>"
+        },
+        "Grapple": {
+          "name": "Apresar",
+          "text": "<p>Usando una mano libre, puedes gastar <strong>1 PA</strong> para intentar <strong>Apresar</strong> a otra criatura. Realiza un <strong>Chequeo de Atletismo</strong> enfrentado al <strong>Chequeo Marcial</strong> del objetivo. Tú o el objetivo pueden tener VENTAJA o DESVENTAJA en su Chequeo según el tamaño de cada uno (ver Mover y Apresar Criaturas).<br /><strong>Éxito:</strong> <strong>Apresas</strong> a la criatura.<br /><br /><strong>Arrastrar:</strong> Puedes mover a una criatura que has apresado a cualquier espacio adyacente al tuyo gastando tu <strong>Movimiento</strong>. Alternativamente, puedes mover a la criatura contigo, pero se considera que estás Ralentizado (Cada 1 Espacio que te muevas cuesta 1 Espacio adicional de movimiento).<br /><br /><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Terminar una Presa</span></strong></span></p><ul><li><p><strong>Escapar de la Presa:</strong> Puedes gastar <strong>1 PA</strong> para intentar liberarte de una <strong>Presa</strong>. Realiza un <strong>Chequeo Marcial</strong> enfrentado al <strong>Chequeo de Atletismo</strong> del objetivo.<br /><strong>Éxito:</strong> Ya no estás <strong>Apresado</strong>.</p></li><li><strong>Apresador Incapacitado:</strong> Si caes <strong>Incapacitado</strong>, la Presa termina inmediatamente.</li><li><p><strong>Movimiento Forzado:</strong> Si un efecto intenta mover forzosamente al objetivo fuera de tu alcance, tú haces el Chequeo o la Salvación en lugar del objetivo. Si el efecto te afecta tanto a ti como al objetivo, tú realizas 1 Chequeo o Salvación para ambos.<br /><strong>Éxito:</strong> Los objetivos del efecto no son movidos.<br /><strong>Fallo:</strong> La Presa termina inmediatamente y los objetivos del efecto son movidos.</p></li><li><strong>Caída:</strong> Si el objetivo de tu presa comienza a caer (y tú no), la Presa termina si no puedes cargar el peso del objetivo. Si puedes cargar su peso, lo mantienes suspendido en el aire.</li></ul><p></p>"
+        },
+        "Shove": {
+          "name": "Empujar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar empujar a una criatura a 1 espacio de ti. Realiza un <strong>Chequeo de Atletismo</strong> enfrentado al <strong>Chequeo Marcial</strong> del objetivo.<br /><strong>Éxito:</strong> Empujas a la criatura 1 espacio lejos de ti o a su izquierda o derecha.<br /><strong>Éxito (por cada 5):</strong> Empuja hasta 1 espacio adicional.<br /><br /><strong>Derribar:</strong> Después del resultado, puedes elegir reducir la distancia total que el objetivo es empujado en 1 espacio para dejarle <strong>derribado</strong> en su lugar.</p>"
+        },
+        "Tackle": {
+          "name": "Placaje",
+          "text": "<p>Si te mueves al menos 2 Espacios en línea recta, puedes gastar <strong>1 PA</strong> para intentar Placar a una criatura que sea de tu mismo tamaño o más pequeña. Realiza un <strong>Chequeo de Atletismo</strong> enfrentado al <strong>Chequeo Marcial</strong> del objetivo.<br /><br /><strong>Éxito:</strong> Agarras al objetivo, ambos se mueven 1 espacio en la misma dirección en la que te estás moviendo y caen inmediatamente <strong>derribados</strong>.<br /><strong>Éxito (por cada 5):</strong> +1 Espacio de movimiento adicional.</p>"
+        },
+        "Disengage": {
+          "name": "Destrabe",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para imponer DESVENTAJA en los <strong>Ataques de Oportunidad</strong> realizados contra ti hasta el comienzo de tu próximo turno.</p>"
+        },
+        "Full Disengage": {
+          "name": "Destrabe total",
+          "text": "<p>Puedes gastar <strong>2 PA</strong> para volverte inmune a los <strong>Ataques de Oportunidad</strong> hasta el comienzo de tu próximo turno.</p>"
+        },
+        "Dodge": {
+          "name": "Esquiva",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para imponer DESVENTAJA en el próximo <strong>Chequeo de Ataque</strong> o <strong>Chequeo de Conjuro</strong> realizado contra ti hasta el comienzo de tu próximo turno.</p>"
+        },
+        "Full Dodge": {
+          "name": "Esquiva Total",
+          "text": "<p>Puedes gastar <strong>2 PA</strong> para imponer DESVENTAJA en todos los <strong>Ataques</strong> realizados contra ti hasta el comienzo de tu próximo turno.</p>"
+        },
+        "Offensive": {
+          "name": "Ofensivas"
+        },
+        "Defensive": {
+          "name": "Defensivas"
+        },
+        "Hide": {
+          "name": "Ocultarse",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar <strong>Ocultarte</strong> de 1 o más criaturas que no puedan verte (<strong>Inadvertido</strong>). Realiza un <strong>Chequeo de Sigilo</strong> contra la <strong>Percepción Pasiva</strong> del/los objetivo/s.<br /><strong>Éxito:</strong> Te vuelves <strong>Oculto</strong> para las criaturas cuya <strong>Percepción Pasiva</strong> superas, (volviéndote <strong>Inadvertido</strong> e <strong>Inaudible</strong> para ellas). Permaneces <strong>Oculto</strong> hasta que hagas un ruido más fuerte que un susurro, realices un <strong>Ataque</strong>, lances un <strong>Hechizo</strong> con un <strong>Componente Verbal</strong>, o una criatura realice la <strong>Acción de Buscar</strong> y te localice exitosamente.</p><ul><li><strong>Inaudible:</strong> Eres Inaudible mientras permanezcas en silencio, hables solo en susurros, o estés dentro de un área afectada por el hechizo Silencio.</li><li><strong>Inadvertido:</strong> Eres Inadvertido para una criatura mientras seas imperceptible para sus sentidos visuales, como cuando estás fuera de su <strong>Línea de Visión</strong> (detrás de <strong>Cobertura Completa</strong>), esté <strong>Cegada</strong>, o estés oculto para ella, como cuando eres <strong>Invisible</strong>. Las criaturas que no pueden verte están <strong>Expuestas</strong> (tus Ataques contra ellas tienen VENTAJA) e <strong>Entorpecidas</strong> contra ti (tienen DESVENTAJA en Ataques contra ti).</li><li><strong>Escondido:</strong> Mientras estés tanto <strong>Inaudible</strong> como <strong>Inadvertido</strong>, eres considerado <strong>Oculto</strong>, y tu ubicación o presencia son desconocidas para otras criaturas.</li></ul><p><br />(ver “Criaturas Escondidas” para más información).</p>"
+        },
+        "Utility": {
+          "name": "Utilidad"
+        },
+        "Spell": {
+          "name": "Conjuro",
+          "text": "<p>Puedes gastar 1 o más <strong>PA</strong> para lanzar un <strong>Conjuro</strong> que conozcas. Si el <strong>Conjuro</strong> tiene un requisito de <strong>Puntos de Maná</strong>, debes gastar esa cantidad de <strong>PM</strong> para lanzar el <strong>Conjuro</strong>.</p>"
+        },
+        "Move": {
+          "name": "Mover",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para moverte hasta tu Velocidad en Espacios (por defecto, 5). Eliges hacia dónde moverte y puedes dividir tu movimiento moviéndote antes y después de realizar una <strong>Acción</strong> diferente. No puedes terminar tu turno en un Espacio ocupado por otra criatura.</p>"
+        },
+        "Help": {
+          "name": "Ayudar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para otorgar a una criatura un <strong>Dado d8 de Ayuda</strong> que dura hasta el comienzo de tu próximo turno. Al otorgar el <strong>Dado de Ayuda</strong>, debes declarar a qué criatura estás ayudando y el tipo de Chequeo que estarás asistiendo, cumpliendo las siguientes condiciones:</p><ul><li><strong>Ataque:</strong> Declaras 1 objetivo para el Chequeo. Debes estar a 1 Espacio del Atacante o del objetivo del Ataque. Mientras dure el <strong>Dado de Ayuda</strong>, puede añadirse al <strong>Ataque</strong> realizado contra el objetivo.</li><li><strong>Chequeo de Habilidad u Oficio:</strong> Declaras un tipo de Chequeo de Habilidad u Oficio. Describes cómo estás ayudando y debes hacerlo utilizando una Habilidad u Oficio en la que tengas al menos 1 Nivel de Maestría. Puedes usar la misma Habilidad u Oficio o una diferente.</li></ul><p><br />El <strong>Dado de Ayuda</strong> solo puede utilizarse para ayudar al tipo de Chequeo declarado.<br /><br /><strong>Penalización por Ayuda Múltiple:</strong> Una vez que realizas la Acción de Ayuda, cada vez que vuelvas a realizar la Acción de Ayuda antes del final de tu turno, tus <strong>Dados de Ayuda</strong> disminuyen en 1 paso, hasta un mínimo de d4 (d8 | d6 | d4). Estos Dados de Ayuda solo disminuyen al usar la Acción de Ayuda. Los Dados de Ayuda otorgados por otras fuentes (como la Maniobra de Espada) disminuyen de manera independiente de cualquier Dado de Ayuda otorgado mediante la Acción de Ayuda.</p>"
+        },
+        "Object": {
+          "name": "Objeto",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para realizar una de las siguientes interacciones con objetos:<br /></p><ul><li>Beber una Poción o Administrar una Poción a otra Criatura.</li><li>Intentar Abrir o Cerrar un Cerrojo.</li><li>Realizar un <strong>Chequeo de Latrocinio</strong> para activar o desactivar una trampa u otro mecanismo.</li><li>Transferir un Objeto hacia o desde otra Criatura (solo una de las dos criaturas gasta <strong>1 PA</strong>).</li><li>Lanzar un Objeto a una ubicación que puedas ver hasta 5 Espacios de distancia.</li></ul>"
+        },
+        "Pass Through": {
+          "name": "Pasar a Través",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar moverte a través de un Espacio ocupado por una criatura hostil que sea de hasta 1 tamaño superior al tuyo. Realiza un <strong>Chequeo Marcial</strong> enfrentado al objetivo.<br /><br /><strong>Éxito:</strong> Puedes moverte a través del Espacio de la criatura como si fuera <strong>Terreno Difícil</strong> (estás <strong>Ralentizado 1</strong> mientras te mueves por esa área).</p>"
+        },
+        "Skill Based": {
+          "name": "Basadas en Habilidades"
+        },
+        "Analyze Creature": {
+          "name": "Analizar Criatura",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar recordar o discernir información sobre una criatura que puedas ver u oír. Realiza un <strong>Chequeo de Conocimiento CD 10</strong> determinado por el DJ.<br /><br /><strong>Éxito:</strong> Descubres un dato sobre la criatura.<br /><strong>Éxito (5):</strong> Descubres 1 estadística de la criatura (Defensa Física, Defensa Mágica, Ataques, Habilidades, Resistencias, Vulnerabilidades, Inmunidades, etc.).<br /><strong>Éxito (10):</strong> +1 estadística de la criatura.</p>"
+        },
+        "Calm Animal": {
+          "name": "Calmar Animal",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar embelesar a una Bestia que pueda verte u oírte. Realiza un <strong>Chequeo de Animal</strong> enfrentado a la <strong>Salvación de Carisma</strong> del objetivo.<br /><br /><strong>Éxito:</strong> El animal queda <strong>Provocado</strong> por ti durante 1 minuto (Salvación Repetida) o hasta que realices contra él un <strong>Ataque</strong>, <strong>Hechizo</strong> u otro efecto perjudicial.<br /><strong>Éxito (5):</strong> También queda <strong>Perjudicado</strong>.<br /><strong>Éxito (10):</strong> También queda <strong>Encantado</strong>.</p>"
+        },
+        "Combat Insight": {
+          "name": "Visión de Combate",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar discernir las acciones que una criatura podría tomar en su próximo turno. Realiza un <strong>Chequeo de Perspicacia</strong> enfrentado al <strong>Chequeo de Latrocinio</strong> o <strong>Influencia</strong> del objetivo (a elección del objetivo).<br /><br /><strong>Éxito:</strong> Descubres el estado emocional del objetivo y si planea hacer un <strong>Ataque</strong>, lanzar un <strong>Hechizo</strong> o huir del combate durante su próximo turno.<br /><strong>Éxito (5):</strong> Sabes a quién es probable que ataque el objetivo con una habilidad perjudicial.<br /><strong>Éxito (10):</strong> Sabes qué habilidad planea usar el objetivo.</p>"
+        },
+        "Conceal": {
+          "name": "Ocultar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para ocultar un objeto en ti mismo o en la vegetación, escombros o decoración cercanos para <strong>Ocultarlo</strong>. Realiza un <strong>Chequeo de Latrocinio</strong> enfrentado a la <strong>Conciencia Pasiva</strong> de las criaturas que puedan verte.<br /><br /><strong>Éxito:</strong> El objeto queda <strong>Oculto</strong> para cualquier criatura cuya <strong>Conciencia Pasiva</strong> hayas superado.</p>"
+        },
+        "Feint": {
+          "name": "Finta",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para realizar un <strong>Chequeo de Latrocinio</strong> enfrentado al <strong>Chequeo de Perspicacia</strong> del objetivo.<br /><br /><strong>Éxito:</strong> El próximo <strong>Ataque</strong> contra el objetivo antes del inicio de tu próximo turno se realiza con VENTAJA y causa +1 de daño.</p>"
+        },
+        "Intimidate": {
+          "name": "Intimidar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar intimidar a una criatura que pueda verte u oírte. Realiza un <strong>Chequeo de Intimidación</strong> enfrentado a la <strong>Salvación de Carisma</strong> del objetivo.<br /><br /><strong>Éxito:</strong> El objetivo queda <strong>Intimidado</strong> por ti hasta el final de tu próximo turno.</p>"
+        },
+        "Investigate": {
+          "name": "Investigar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar descubrir un objeto oculto en una criatura, un compartimento secreto o la función prevista de un mecanismo que esté a 1 espacio de distancia de ti.</p><ul><li><p><strong>Objetos Ocultos:</strong> Puedes intentar descubrir cualquier objeto oculto en una criatura. Realiza un <strong>Chequeo de Investigación</strong> enfrentado al <strong>Chequeo de Latrocinio</strong> del objetivo. <br /><strong>Éxito:</strong> Conoces la ubicación de cualquier objeto oculto en la criatura.</p></li><li><p><strong>Compartimentos Secretos:</strong> Puedes intentar descubrir cualquier compartimento secreto. Realiza un <strong>Chequeo de Investigación</strong> contra la <strong>CD de descubrimiento</strong> de cualquier compartimento secreto. <br /><strong>Éxito:</strong> Descubres la ubicación de cualquier compartimento secreto cuyo <strong>CD de descubrimiento</strong> hayas superado.</p></li><li><p><strong>Discernir Mecanismo:</strong> Puedes intentar discernir la funcionalidad de un mecanismo (el efecto de una trampa, cómo abrir una puerta secreta o activar un dispositivo). Realiza un <strong>Chequeo de Investigación</strong>. <br /><strong>Éxito:</strong> Aprendes cómo funciona el mecanismo y los métodos para activarlo y desactivarlo (si los hay).</p></li></ul><p></p>"
+        },
+        "Jump": {
+          "name": "Saltar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar aumentar la distancia que puedes cubrir al saltar. Realiza un <strong>Chequeo Marcial CD 10</strong>.</p><ul><li><p><strong>Éxito en Salto Horizontal:</strong> Puedes moverte 1 espacio adicional como parte de tu Salto Horizontal. <br /><strong>Éxito (por cada 5):</strong> +1 espacio adicional.</p></li><li><p><strong>Éxito en Salto Vertical:</strong> Puedes mover 1ft adicional (30 cm) como parte de tu Salto Vertical. <br /><strong>Éxito (por cada 5):</strong> +1ft (30 cm).</p></li></ul>"
+        },
+        "Mounted Defence": {
+          "name": "Defensa Montada",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para maniobrar con tu montura y evitar el peligro. Realiza un <strong>Chequeo de Animal CD 10</strong>.<br /><br /><strong>Éxito:</strong> La Defensa Física (DF) tu montura aumenta en 2 hasta el comienzo de tu próximo turno.<br /><strong>Éxito (5):</strong> +2 DF.<br /><strong>Éxito (10):</strong> +4 DF.</p>"
+        },
+        "Medicine": {
+          "name": "Medicina",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para tocar a una criatura y atender sus heridas. Realiza un <strong>Chequeo de Medicina CD 10</strong>.<br /><br /><strong>Éxito:</strong> Detienes su Sangrado o la Estabilizas (a tu elección).<br /><strong>Éxito (5):</strong> La criatura gana +1 PV Temporal.</p>"
+        },
+        "Search": {
+          "name": "Buscar",
+          "text": "<p>Puedes gastar <strong>1 PA</strong> para intentar localizar 1 o más criaturas y objetos <strong>Ocultos</strong> dentro de tu Línea de Visión.</p><ul><li><p><strong>Criaturas Ocultas:</strong> Intentas localizar cualquier criatura <strong>Oculta</strong> en el área. Realiza un <strong>Chequeo de Percepción</strong> contra el <strong>Chequeo de Sigilo</strong> de cualquier criatura Oculta.<br /><strong>Éxito:</strong> Conoces la ubicación de cualquier criatura <strong>Oculta</strong> cuyo <strong>Chequeo de Sigilo</strong> hayas superado hasta el final de tu turno.</p></li><li><p><strong>Objetos Ocultos:</strong> Intentas localizar cualquier objeto <strong>Oculto</strong> en el área. Realiza un <strong>Chequeo de Percepción</strong> contra la CD para descubrir cualquier objeto oculto (como trampas, puertas secretas o ítems ocultos).<br /><strong>Éxito:</strong> Descubres la ubicación de cualquier objeto <strong>Oculto</strong> cuya CD de descubrimiento hayas superado.</p></li></ul>"
+        },
+        "Reaction": {
+          "name": "Reacciones"
+        },
+        "Attack of Opportunity": {
+          "name": "Ataque de Oportunidad",
+          "text": "<p><span style=\"text-decoration:underline\"><em><strong><span style=\"text-decoration:underline\">Requisito:</span></strong></em></span><em> cualquier Dote de Clase Marcial</em><br /><br /><strong>Desencadenante:</strong> Una criatura que puedes ver dentro de tu Alcance Cuerpo a Cuerpo utiliza su movimiento para salir de tu Alcance Cuerpo a Cuerpo, se levanta de estar Derribada, recoge un objeto del suelo o realiza la <strong>Acción de Objeto</strong>.<br /><br /><strong>Reacción:</strong> Puedes gastar <strong>1 PA</strong> para realizar un Chequeo de Ataque con un Ataque Desarmado o un Arma de Combate Cuerpo a Cuerpo que estés empuñando contra la criatura que provocó el Ataque de Oportunidad. Puedes gastar más <strong>PA</strong> para obtener <strong>VENTAJA</strong> o para realizar Maniobras con el Ataque.</p>"
+        },
+        "Spell Duel": {
+          "name": "Duelo de Conjuros",
+          "text": "<p><span style=\"text-decoration:underline\"><em><strong><span style=\"text-decoration:underline\">Requisito:</span></strong></em></span><em> cualquier Dote de Clase Lanzadora de Conjuros</em><br /><br /><strong>Desencadenante:</strong> Cuando otra criatura que puedes ver lanza un Conjuro. <br /><br /><strong>Reacción:</strong> Declaras un Duelo de Conjuros y gastas <strong>2 PA</strong> y 1 o más <strong>PM</strong> para desafiar a la criatura con un Conjuro propio. Puedes declarar un Duelo de Conjuros después de que la criatura realiza su Chequeo de Conjuro pero antes de conocer el resultado de su Chequeo.<br /><br /><strong>Participantes Múltiples:</strong> Otras criaturas pueden optar por participar para ayudar a que el Conjuro surta efecto o para evitar que el Conjuro surta efecto. Si varias criaturas eligen participar en el Duelo de Conjuros, se clasifican en <strong>Iniciadores</strong> (quienes intentan ayudar a que el Conjuro surta efecto) y <strong>Desafiadores</strong> (quienes intentan evitar que el Conjuro surta efecto).<br />Durante la Contienda (ver más abajo), cada participante realiza su Chequeo de Conjuro, y el resultado más alto de los Iniciadores se compara con el resultado más alto de los Desafiadores para determinar el resultado.<br /><br /><strong>Elección del Conjuro:</strong> Declaras qué Conjuro estás usando para desafiar el Conjuro oponente y luego describes cómo usas tu Conjuro para ello. El DJ decide si tiene sentido.<br /><strong>Objetivo:</strong> Si tu Conjuro elegido tiene como objetivo a una o más criaturas u objetos, debes ser capaz de apuntar a la criatura oponente o a cualquiera de sus objetivos con tu Conjuro.<br /><strong>Área de Efecto:</strong> Si tu Conjuro elegido cubre un área (como un Arco, Cono, Cubo, Cilindro, Línea o Esfera), el Área de Efecto de tu Conjuro debe incluir a la criatura oponente, a cualquiera de sus objetivos o cubrir un área entre la criatura oponente y cualquiera de sus objetivos.<br /><strong>Éxito y Fracaso:</strong> Las declaraciones de éxito y fracaso de tu Conjuro se reemplazan por las declaraciones de éxito y fracaso en la sección de Contienda a continuación.<br /><br /><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Contienda</span></strong></span><br />El Chequeo de Conjuro que la criatura oponente realiza para lanzar su Conjuro se enfrenta con el Chequeo de Conjuro que realizas para lanzar tu Conjuro. Al comparar los Chequeos de Conjuro con el propósito de determinar al ganador de la Contienda, cada criatura recibe un bono a su Chequeo igual a los PM que gastó en su Conjuro.<br /><strong>• Éxito:</strong> El Conjuro de la criatura objetivo falla y no tiene efecto.<br /><strong>• Fracaso:</strong> El Conjuro de la criatura objetivo tiene éxito y surte efecto.<br /><strong>• Empate:</strong> El Conjuro de la criatura objetivo falla, no tiene efecto y ambos realizan una tirada en la Tabla de Explosión de Magia Salvaje. El efecto de la tabla dura hasta el final de tu próximo turno. Sea cual sea el resultado, cada criatura sigue gastando todos los PA, PM u otros recursos que gastó para lanzar su Conjuro.</p>"
+        }
+      }
+    },
+    "Conditions": {
+      "name": "Condiciones",
+      "pages": {
+        "Bleeding": {
+          "name": "Sangrando",
+          "text": "<p>Recibes <strong>1 de daño Verdadero</strong> al inicio de cada uno de tus turnos.</p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Finalización del Sangrado</span></strong></span></p><ul><li><p><strong>Curado:</strong> Estás sujeto a un efecto que restaura tus PV.</p></li><li><p><strong>Acción de Medicina:</strong> Una criatura puede gastar 1 PA para realizar un <strong>Chequeo de Medicina CD 10</strong> en sí misma o en otra criatura dentro de 1 Espacio.<br /><strong>Éxito:</strong> Elimina la Condición de Sangrado.<br /><strong>Éxito (cada 5):</strong> La criatura recibe +1 PV Temporal.</p></li></ul>"
+        },
+        "Blinded": {
+          "name": "Cegado",
+          "text": "<p>Fallas automáticamente los Chequeos que requieren Visión y todas las demás criaturas se consideran <strong>Ocultas</strong> para ti. Estás <strong>Expuesto</strong> (los Ataques contra ti tienen VENTAJA) y <strong>Entorpecido</strong> (tienes DESVENTAJA en los Ataques). Además, mientras no seas guiado por otra criatura, todo el terreno te resulta Terreno Difícil (moverte 1 Espacio cuesta 2 Espacios).</p>"
+        },
+        "Burning": {
+          "name": "Ardiendo",
+          "text": "<p>Recibes <strong>1 de daño de Fuego</strong> al inicio de cada uno de tus turnos. Tú u otra criatura a 1 Espacio de tí pueden gastar <strong>1 PA</strong> para apagarlo.</p>"
+        },
+        "Charmed": {
+          "name": "Encantado",
+          "text": "<p>Quien te ha encantado tiene VENTAJA en los Chequeos de Carisma realizados contra ti. Además, no puedes seleccionarlo como objetivo de Ataques dañinos, habilidades o efectos mágicos.</p>"
+        },
+        "Dazed": {
+          "name": "Desorientado",
+          "text": "<p>Tienes DESVENTAJA en Chequeos Mentales.</p>"
+        },
+        "Heavily Dazed": {
+          "name": "Fuertemente Desorientado",
+          "text": "<p>Tienes DESVENTAJA en Chequeos y Salvaciones Mentales.</p>"
+        },
+        "Deafened": {
+          "name": "Ensordecido",
+          "text": "<p>Fallas automáticamente los Chequeos que requieren Audición, y todas las criaturas son consideradas Inaudibles para ti. Además, tienes <strong>Resistencia</strong> al daño Sónico.</p>"
+        },
+        "Doomed": {
+          "name": "Condenado",
+          "text": "<p>El umbral de PV de A las Puertas de la Muerte para determinar la muerte se reduce en una cantidad igual al valor de X.</p><p>Si tu valor de Condenado es igual o mayor que tu umbral de A las Puertas de la Muerte, mueres instantáneamente al alcanzar 0 PV. Pierdes todas las acumulaciones de Condenado cuando completes un Descanso Largo.</p>"
+        },
+        "Exhaustion": {
+          "name": "Fatiga",
+          "text": "<p>Recibes una penalización igual a X en todos los <strong>Chequeos</strong> y <strong>Salvaciones</strong> que realices.</p><p>Además, tu <strong>Velocidad</strong> y tu <strong>CD de Salvación</strong> se reducen también en X.</p><p>Si una criatura alcanza Fatiga 6, muere inmediatamente.</p>"
+        },
+        "Exposed": {
+          "name": "Expuesto",
+          "text": "<p>Los ataques contra ti tienen VENTAJA.</p>"
+        },
+        "Frightened": {
+          "name": "Asustado",
+          "text": "<p>Debes gastar tus turnos intentando alejarte lo máximo posible de la fuente del efecto.</p><p>La única Acción que puedes tomar es la Acción de Movimiento para intentar huir, o la Acción de Esquivar si se te impide moverte o no hay ningún lugar más lejos al que puedas moverte.</p><p>También se considera que estás <strong>Alterado</strong> (no puedes acercarte más a la fuente) e <strong>Intimidado</strong> (DESVENTAJA en todos los chequeos mientras esté dentro de tu línea de visión).</p>"
+        },
+        "Grappled": {
+          "name": "Apresado",
+          "text": "<p>Tu Velocidad se vuelve 0 y tienes DESVENTAJA en Salvaciones de Agilidad.</p><p></p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Finalizar una Presa</span></strong></span></p><ul><li><p><strong>Escapar de la Presa:</strong> Puedes gastar <strong>1 PA</strong> para intentar liberarte de la presa. Realiza un Chequeo Marcial contra el Chequeo de Atletismo del Apresador. <br /><strong>Éxito:</strong> La Presa termina inmediatamente.</p></li><li><p><strong>Apresador Incapacitado:</strong> Si el Apresador queda incapacitado, la Presa termina inmediatamente.</p></li><li><p><strong>Movimiento Forzado: </strong>Si un efecto intenta moverte a la fuerza más allá del alcance del Apresador, el Apresador realiza el Chequeo o Salvación en lugar de ti. Si el efecto afecta tanto a ti como al Apresador, el Apresador realiza un Chequeo o Salvación para ambos. <strong>Éxito:</strong> Los objetivos del efecto no se mueven. <strong>Fallo:</strong> La Presa termina inmediatamente y los objetivos del efecto son movidos.</p></li><li><p><strong>Caída:</strong> Si empiezas a caer mientras estás Apresado, y tu Apresador no está cayendo contigo, tu Apresador te sostiene en el aire si puede cargar tu peso.</p></li></ul>"
+        },
+        "Hindered": {
+          "name": "Entorpecido",
+          "text": "<p>Tienes DESVENTAJA en los Ataques.</p>"
+        },
+        "Impaired": {
+          "name": "Impedido",
+          "text": "<p>Tienes DESVENTAJA en los Chequeos Físicos.</p>"
+        },
+        "Heavily Impaired": {
+          "name": "Fuertemente Impedido",
+          "text": "<p>Tienes DESVENTAJA en las Salvaciones y Chequeos Físicos.</p>"
+        },
+        "Incapacitated": {
+          "name": "Incapacitado",
+          "text": "<p>No puedes Hablar, Concentrarte ni gastar Puntos de Acción.</p>"
+        },
+        "Intimidated": {
+          "name": "Intimidado",
+          "text": "<p>Tienes DESVENTAJA en todos los Chequeos mientras tu fuente de intimidación esté a la vista.</p>"
+        },
+        "Invisible": {
+          "name": "Invisible",
+          "text": "<p>Eres Invisible, lo que hace que las criaturas que no pueden verte estén <strong>Expuestas</strong> (tus Ataques contra ellas tienen Ventaja) y <strong>Entorpecidas</strong> contra ti (tienen DESVENTAJA en los Ataques contra ti).</p>"
+        },
+        "Paralyzed": {
+          "name": "Paralyzed",
+          "text": "<p>Attacks made from within 1 Space that hit you are considered Critical Hits. You’re also <strong>Stunned</strong> (automatically fail Agility, Might, and Physical Saves), <strong>Exposed</strong> (Attacks against you have ADV), and <strong>Incapacitated</strong> (you can’t Speak, Concentrate, or spend Action Points).</p>"
+        },
+        "Paralyzed": {
+          "name": "Paralizado",
+          "text": "<p>Los Ataques realizados contra tí a 1 Espacio de distancia que te golpean se consideran Golpes Críticos. También estás <strong>Aturdido</strong> (fallas automáticamente las Salvaciones Físicas, de Agilidad y de Fuerza), <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja) e <strong>Incapacitado</strong> (no puedes Hablar, Concentrarte o gastar Puntos de Acción).</p>"
+        },
+        "Petrified": {
+          "name": "Petrificado",
+          "text": "<p>Tú y tus pertenencias mundanas son convertidas en piedra y ya no eres consciente de tu entorno. Te vuelves 10 veces más pesado y tienes <strong>Resistencia (Mitad)</strong> a todo daño. Cualquier Veneno o Enfermedad que te estuviera afectando se suspende y eres inmune a cualquier Veneno y Enfermedad adicional mientras estés Petrificado.</p><p>También estás <strong>Paralizado</strong> (los Ataques que te Golpean se consideran Golpes Críticos si el Atacante está a 1 Espacio de distancia de ti), <strong>Aturdido</strong> (fallas automáticamente las Salvaciones Físicas, de Agilidad y de Fuerza), <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja) e <strong>Incapacitado</strong> (no puedes Hablar, Concentrarte o gastar Puntos de Acción).</p>"
+        },
+        "Poisoned": {
+          "name": "Envenenado",
+          "text": "<p>Estás <strong>Impedido</strong> (Desventaja en Chequeos Físicos) y recibes 1 punto de daño por Veneno al inicio de cada uno de tus turnos.</p><p>Una criatura puede gastar <strong>1 PA</strong> para realizar un Chequeo de Medicina (contra la CD del Veneno) en sí misma o en otra criatura a 1 Espacio de distancia.</p><p><strong>Éxito:</strong> Elimina la Condición de Envenenado.</p>"
+        },
+        "Prone": {
+          "name": "Derribado",
+          "text": "<p>Mientras estás <strong>Derribado</strong>, estás sujeto a los siguientes efectos:</p><ul><li><p>Estás <strong>Entorpecido</strong> (Tienes Desventaja en Ataques).</p></li><li><p>Los Ataques a Distancia están <strong>Entorpecidos</strong> contra ti.</p></li><li><p>Estás <strong>Expuesto</strong> (Los Ataques contra ti tienen Ventaja) contra Ataques cuerpo a cuerpo.</p></li></ul><p><strong>Arrastrarse:</strong> Tu única opción de movimiento es Arrastrarte, lo cual cuenta como Ralentizado 1 (Cada 1 Espacio que te muevas cuesta 1 Espacio extra de movimiento).</p><p><strong>Levantarse:</strong> Puedes gastar 2 Espacios de movimiento para levantarte, lo que pone fin a la Condición de <strong>Derribado</strong> en ti mismo. Levantarse desde Derribado provoca Ataques de Oportunidad.</p>"
+        },
+        "Rattled": {
+          "name": "Rattled",
+          "text": "<p>You can’t willingly move closer to your source of fear, and you’re <strong>Intimidated</strong> (DisADV on all Checks while it’s within your line of sight).</p>"
+        },
+        "Rattled": {
+          "name": "Alterado",
+          "text": "<p>No puedes acercarte voluntariamente a la fuente de tu miedo, y estás <strong>Intimidado</strong> (Tienes Desventaja en todos los Chequeos mientras esté dentro de tu línea de visión).</p>"
+        },
+        "Restrained": {
+          "name": "Restringido",
+          "text": "<p>Estás <strong>Entorpecido</strong> (tienes Desventaja en los Ataques), <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja) y <strong>Apresado</strong> (tu Velocidad se reduce a 0 y tienes Desventaja en las Salvaciones de Agilidad).</p>"
+        },
+        "Slowed": {
+          "name": "Ralentizado",
+          "text": "<p>Cada 1 Espacio que te muevas cuesta un Espacio adicional de movimiento.</p>"
+        },
+        "Stunned": {
+          "name": "Aturdido",
+          "text": "<p>Fallas automáticamente en las Salvaciones de Agilidad, Fuerza y Físicas. También estás <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja) e <strong>Incapacitado</strong> (no puedes Hablar, Concentrarte o gastar Puntos de Acción).</p>"
+        },
+        "Surprised": {
+          "name": "Sorprendido",
+          "text": "<p>No puedes gastar Puntos de Acción y estás <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja).</p>"
+        },
+        "Taunted": {
+          "name": "Provocado",
+          "text": "<p>Tienes Desventaja en los Ataques contra criaturas que no sean la que te ha provocado.</p>"
+        },
+        "Unconscious": {
+          "name": "Inconsciente",
+          "text": "<p>Ya no eres consciente de tu entorno, sueltas lo que estás sosteniendo y caes <strong>Derribado</strong>.</p><p>También estás <strong>Paralizado</strong> (los Ataques que te Golpean desde 1 Espacio se consideran Golpes Críticos), <strong>Aturdido</strong> (fallas automáticamente las Salvaciones de Agilidad, Fuerza y Físicas), <strong>Expuesto</strong> (los Ataques contra ti tienen Ventaja) e <strong>Incapacitado</strong> (no puedes Hablar, Concentrarte o gastar Puntos de Acción).</p>"
+        },
+        "Well-Bloodied": {
+          "name": "Gravemente Herido",
+          "text": "<p>Tus PV son iguales o menores al 25% de tus PV máximos.</p>"
+        },
+        "Bloodied": {
+          "name": "Herido",
+          "text": "<p>Tus PV son iguales o menores al 50% de tus PV máximos.</p>"
+        },
+        "Concentration": {
+          "name": "Concentración",
+          "text": "<p>Algunos Hechizos requieren que el lanzador mantenga la Concentración para que los efectos del Hechizo persistan. Pueden sucederte cosas (como recibir daño) que te obligan a hacer una <strong>Salvación Mental</strong> para mantener la <strong>Concentración</strong>.</p><p>Solo puedes mantener la Concentración en 1 efecto a la vez. Si lanzas exitosamente un segundo Hechizo que requiere Concentración, pierdes inmediatamente la Concentración en el primer Hechizo.</p><p></p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Mantener la Concentración</span></strong></span></p><p>Cada vez que recibas daño o te pongan en una situación de distracción o peligro (a discreción del DJ), debes hacer una <strong>Salvación Mental</strong> para mantener la Concentración.</p><p>La CD es igual a 10 o el doble de la cantidad de daño recibido (lo que sea mayor).</p>"
+        },
+        "Dead": {
+          "name": "Muerto",
+          "text": "<p>Estás muerto.</p>"
+        }
+      }
+    }
+  }
+}
