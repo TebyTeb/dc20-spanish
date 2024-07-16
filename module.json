@@ -1,15 +1,15 @@
 {
   "id": "dc20-spanish",
-  "title": "DC20 spanish translation",
-  "description": "Your module description.",
+  "title": "DC20 Spanish translation",
+  "description": "Traducción NO OFICIAL de los compendios del sistema DC20 desarrollado por @pazindorb.",
   "authors": [
     {
       "name": "TebyTeb"
     }
   ],
-  "version": "1.0.0",
+  "version": "0.0.1",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "11",
     "verified": "12"
   },
   "esmodules": [
@@ -20,8 +20,22 @@
       {
         "id": "babele",
         "type": "module",
-        "compatibility": {}
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/2.5.5/module/module.json",
+        "compatibility": {
+          "verified": "2.5.5"
+        }
+      },
+      {
+        "id": "dc20rpg",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/pazindorb/dc20rpg/master/system.json",
+        "compatibility": {
+          "verified": "0.8.0"
+        }
       }
     ]
-  }
+  },
+  "url": "https://github.com/TebyTeb/dc20-spanish",
+	"manifest": "https://github.com/TebyTeb/dc20-spanish/releases/download/0.0.1-alpha/module.json",
+  "download": "https://github.com/TebyTeb/dc20-spanish/releases/download/0.0.1-alpha/dc20-spanish.zip"
 }
