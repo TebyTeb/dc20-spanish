@@ -1,14 +1,27 @@
-# Here is the working module for your translation!
+# DC20 Spanish translation
 
-Please take time todo some adjustments:
+### English:
 
-* Change the ID of the module (currently `dc20-spanish`)
-    * In the `module.json` file: `"id": "dc20-spanish"`
-    * In the `register.js` file: `const MODULE_ID = 'dc20-spanish'; // Change this ID!`
-    * The name of this directory
-* Customize the name and the description of the module and your name in the `module.json`
+## Installation
+Access `Add-on Modules` in your Foundry application, click on `Install Module` and paste the below line into `manifest URL`:
 
-Feel free to make any changes you want.
+```
+https://github.com/TebyTeb/dc20-spanish/releases/download/0.0.1-alpha/module.json
+```
 
-Once all is done, all you have to do now is to move it into your Foundry `modules/` directory and activate it in a
-world.
+## Dependencies
+- [DC20 system](https://github.com/pazindorb/dc20rpg) - Created by [pazindorb](https://github.com/pazindorb)
+- [Babele](https://foundryvtt.com/packages/babele) - Created by [Simone Ricciardi](https://gitlab.com/riccisi)
+
+### Spanish
+
+## Instalación
+Accede a `Add-on Modules` en tu aplicación de Foundry, haz click en `Install Module` y pega la línea de abajo en `manifest URL`:
+
+```
+https://github.com/TebyTeb/dc20-spanish/releases/download/0.0.1-alpha/module.json
+```
+
+## Dependencias
+- [DC20 system](https://github.com/pazindorb/dc20rpg) - Creado por [pazindorb](https://github.com/pazindorb)
+- [Babele](https://foundryvtt.com/packages/babele) - Creado por [Simone Ricciardi](https://gitlab.com/riccisi)
