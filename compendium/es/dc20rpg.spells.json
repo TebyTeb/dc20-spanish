@@ -1,0 +1,140 @@
+{
+  "label": "Spells",
+  "entries": {
+    "Acid Bolt": {
+      "name": "Acid Bolt"
+    },
+    "Augury": {
+      "name": "Augury"
+    },
+    "Bane": {
+      "name": "Bane"
+    },
+    "Befriend": {
+      "name": "Befriend"
+    },
+    "Bless": {
+      "name": "Bless"
+    },
+    "Burning Flames": {
+      "name": "Burning Flames"
+    },
+    "Catapult": {
+      "name": "Catapult"
+    },
+    "Close Wounds": {
+      "name": "Close Wounds"
+    },
+    "Command": {
+      "name": "Command"
+    },
+    "Crackling Lightning": {
+      "name": "Crackling Lightning"
+    },
+    "Dancing Flames": {
+      "name": "Dancing Flames"
+    },
+    "Death Bolt": {
+      "name": "Death Bolt"
+    },
+    "Druidcraft": {
+      "name": "Druidcraft"
+    },
+    "Find Familiar": {
+      "name": "Find Familiar"
+    },
+    "Fire Bolt": {
+      "name": "Fire Bolt"
+    },
+    "Fire Shield": {
+      "name": "Fire Shield"
+    },
+    "Fog Cloud": {
+      "name": "Fog Cloud"
+    },
+    "Frost Bolt": {
+      "name": "Frost Bolt"
+    },
+    "Grease": {
+      "name": "Grease"
+    },
+    "Guidance": {
+      "name": "Guidance"
+    },
+    "Guiding Bolt": {
+      "name": "Guiding Bolt"
+    },
+    "Gust": {
+      "name": "Gust"
+    },
+    "Heal": {
+      "name": "Heal"
+    },
+    "Ice Knife": {
+      "name": "Ice Knife"
+    },
+    "Light": {
+      "name": "Light"
+    },
+    "Lightning Blade": {
+      "name": "Lightning Blade"
+    },
+    "Lightning Bolt": {
+      "name": "Lightning Bolt"
+    },
+    "Mage Hand": {
+      "name": "Mage Hand"
+    },
+    "Magic Missile": {
+      "name": "Magic Missile"
+    },
+    "Message": {
+      "name": "Message"
+    },
+    "Minor Flame Blade": {
+      "name": "Minor Flame Blade"
+    },
+    "Minor Illusion": {
+      "name": "Minor Illusion"
+    },
+    "Misty Step": {
+      "name": "Misty Step"
+    },
+    "Poison Bolt": {
+      "name": "Poison Bolt"
+    },
+    "Psi Bolt": {
+      "name": "Psi Bolt"
+    },
+    "Psychic Fear": {
+      "name": "Psychic Fear"
+    },
+    "Returning Shock": {
+      "name": "Returning Shock"
+    },
+    "Sacred Bolt": {
+      "name": "Sacred Bolt"
+    },
+    "Shield": {
+      "name": "Shield"
+    },
+    "Shield of Faith": {
+      "name": "Shield of Faith"
+    },
+    "Shocking Grasp": {
+      "name": "Shocking Grasp"
+    },
+    "Silent Image": {
+      "name": "Silent Image"
+    },
+    "Sleep": {
+      "name": "Sleep"
+    },
+    "Sorcery": {
+      "name": "Sorcery"
+    },
+    "Tethering Vines": {
+      "name": "Tethering Vines"
+    }
+  }
+}

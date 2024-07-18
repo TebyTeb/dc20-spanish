@@ -1,0 +1,86 @@
+{
+  "label": "Monsters",
+  "entries": {
+    "Bandit": {
+      "name": "Bandit",
+      "tokenName": "Bandit",
+      "items": {
+        "Axe": {
+          "name": "Axe"
+        },
+        "Impact": {
+          "name": "Impact"
+        },
+        "Light Crossbow": {
+          "name": "Light Crossbow"
+        }
+      }
+    },
+    "Bandit Captain": {
+      "name": "Bandit Captain",
+      "tokenName": "Bandit Captain",
+      "items": {
+        "Undermine": {
+          "name": "Undermine"
+        },
+        "Knife": {
+          "name": "Knife"
+        },
+        "Commander": {
+          "name": "Commander"
+        },
+        "Battle Axe": {
+          "name": "Battle Axe"
+        },
+        "Dart": {
+          "name": "Dart"
+        }
+      }
+    },
+    "Brown Bear": {
+      "name": "Brown Bear",
+      "tokenName": "Brown Bear",
+      "items": {
+        "Maul": {
+          "name": "Maul"
+        },
+        "Keen Smell": {
+          "name": "Keen Smell"
+        },
+        "Bite or Claw": {
+          "name": "Bite or Claw"
+        },
+        "Swipe": {
+          "name": "Swipe"
+        }
+      }
+    },
+    "Skeleton": {
+      "name": "Skeleton",
+      "tokenName": "Skeleton",
+      "items": {
+        "Sword": {
+          "name": "Sword"
+        },
+        "Bow": {
+          "name": "Bow"
+        }
+      }
+    },
+    "Wolf": {
+      "name": "Wolf",
+      "tokenName": "Wolf",
+      "items": {
+        "Animal Senses": {
+          "name": "Animal Senses"
+        },
+        "Bite or Claw": {
+          "name": "Bite or Claw"
+        },
+        "Tear Apart": {
+          "name": "Tear Apart"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "label": "Classes",
+  "entries": {
+    "Acolyte": {
+      "name": "Acolyte"
+    },
+    "Action Surge": {
+      "name": "Action Surge"
+    },
+    "Adaptive Arsenal": {
+      "name": "Adaptive Arsenal"
+    },
+    "Arcane Points": {
+      "name": "Arcane Points"
+    },
+    "Arcane Sigil": {
+      "name": "Arcane Sigil"
+    },
+    "Barbarian": {
+      "name": "Barbarian"
+    },
+    "Barbarian Stamina": {
+      "name": "Barbarian Stamina"
+    },
+    "Bard": {
+      "name": "Bard"
+    },
+    "Bardic Performance": {
+      "name": "Bardic Performance"
+    },
+    "Battlecry": {
+      "name": "Battlecry"
+    },
+    "Bear Stance (Big Hits)": {
+      "name": "Bear Stance (Big Hits)"
+    },
+    "Berserker": {
+      "name": "Berserker"
+    },
+    "Beseech Patron (Flavor Feature)": {
+      "name": "Beseech Patron (Flavor Feature)"
+    },
+    "Blessing: Destruction": {
+      "name": "Blessing: Destruction"
+    },
+    "Blessing: Guidance": {
+      "name": "Blessing: Guidance"
+    },
+    "Blessing: Restoration": {
+      "name": "Blessing: Restoration"
+    },
+    "Blink Blade": {
+      "name": "Blink Blade"
+    },
+    "Bound Weapon": {
+      "name": "Bound Weapon"
+    },
+    "Brutal Blows": {
+      "name": "Brutal Blows"
+    },
+    "Bull Stance (Knockback)": {
+      "name": "Bull Stance (Knockback)"
+    },
+    "Careful Spell": {
+      "name": "Careful Spell"
+    },
+    "Censure Divine": {
+      "name": "Censure Divine"
+    },
+    "Censure Undead": {
+      "name": "Censure Undead"
+    },
+    "Channel Divinity": {
+      "name": "Channel Divinity"
+    },
+    "Cheap Shot": {
+      "name": "Cheap Shot"
+    },
+    "Cleric": {
+      "name": "Cleric"
+    },
+    "Cleric Order": {
+      "name": "Cleric Order"
+    },
+    "Coast": {
+      "name": "Coast"
+    },
+    "Cobra Stance (Counter)": {
+      "name": "Cobra Stance (Counter)"
+    },
+    "Combat Leader": {
+      "name": "Combat Leader"
+    },
+    "Commander": {
+      "name": "Commander"
+    },
+    "Commander Stamina": {
+      "name": "Commander Stamina"
+    },
+    "Commander’s Call": {
+      "name": "Commander’s Call"
+    },
+    "Commanding Aura": {
+      "name": "Commanding Aura"
+    },
+    "Counter Charm": {
+      "name": "Counter Charm"
+    },
+    "Crowd Pleaser (Flavor Feature)": {
+      "name": "Crowd Pleaser (Flavor Feature)"
+    },
+    "Cunning Action": {
+      "name": "Cunning Action"
+    },
+    "Debilitating Strike": {
+      "name": "Debilitating Strike"
+    },
+    "Deflect Attack": {
+      "name": "Deflect Attack"
+    },
+    "Desert": {
+      "name": "Desert"
+    },
+    "Divine Blessing": {
+      "name": "Divine Blessing"
+    },
+    "Divine Intervention": {
+      "name": "Divine Intervention"
+    },
+    "Divine Omen (Flavor Feature)": {
+      "name": "Divine Omen (Flavor Feature)"
+    },
+    "Druid": {
+      "name": "Druid"
+    },
+    "Druid Domain": {
+      "name": "Druid Domain"
+    },
+    "Evasion": {
+      "name": "Evasion"
+    },
+    "Favored Terrain": {
+      "name": "Favored Terrain"
+    },
+    "Fighter": {
+      "name": "Fighter"
+    },
+    "Fighter Stamina": {
+      "name": "Fighter Stamina"
+    },
+    "Flurry of Blows": {
+      "name": "Flurry of Blows"
+    },
+    "Font of Inspiration": {
+      "name": "Font of Inspiration"
+    },
+    "Font of Magic": {
+      "name": "Font of Magic"
+    },
+    "Forest": {
+      "name": "Forest"
+    },
+    "Gazelle Stance (Nimble)": {
+      "name": "Gazelle Stance (Nimble)"
+    },
+    "Grassland": {
+      "name": "Grassland"
+    },
+    "Heightened Spell": {
+      "name": "Heightened Spell"
+    },
+    "Hex Warrior": {
+      "name": "Hex Warrior"
+    },
+    "Hunter Bestiary (Flavor Feature)": {
+      "name": "Hunter Bestiary (Flavor Feature)"
+    },
+    "Hunter’s Mark": {
+      "name": "Hunter’s Mark"
+    },
+    "Hunter’s Strike": {
+      "name": "Hunter’s Strike"
+    },
+    "Innate Power": {
+      "name": "Innate Power"
+    },
+    "Inspiring Presence": {
+      "name": "Inspiring Presence"
+    },
+    "Inspiring Rest": {
+      "name": "Inspiring Rest"
+    },
+    "Intuitive Magic": {
+      "name": "Intuitive Magic"
+    },
+    "Jungle": {
+      "name": "Jungle"
+    },
+    "Know Your Enemy (Flavor Feature)": {
+      "name": "Know Your Enemy (Flavor Feature)"
+    },
+    "Life Drain": {
+      "name": "Life Drain"
+    },
+    "Life Tap": {
+      "name": "Life Tap"
+    },
+    "Magus": {
+      "name": "Magus"
+    },
+    "Mantis Stance (Grapple)": {
+      "name": "Mantis Stance (Grapple)"
+    },
+    "Meditation (Flavor)": {
+      "name": "Meditation (Flavor)"
+    },
+    "Meta Magic": {
+      "name": "Meta Magic"
+    },
+    "Might & Magic": {
+      "name": "Might & Magic"
+    },
+    "Mongoose Stance (Multi)": {
+      "name": "Mongoose Stance (Multi)"
+    },
+    "Monk": {
+      "name": "Monk"
+    },
+    "Monk Stamina": {
+      "name": "Monk Stamina"
+    },
+    "Monk Stance": {
+      "name": "Monk Stance"
+    },
+    "Monk Training": {
+      "name": "Monk Training"
+    },
+    "Mountain": {
+      "name": "Mountain"
+    },
+    "Natural Hunter": {
+      "name": "Natural Hunter"
+    },
+    "Nature’s Grasp": {
+      "name": "Nature’s Grasp"
+    },
+    "Nature’s Rest": {
+      "name": "Nature’s Rest"
+    },
+    "Nature’s Veil": {
+      "name": "Nature’s Veil"
+    },
+    "Overload Magic": {
+      "name": "Overload Magic"
+    },
+    "Pact Armor": {
+      "name": "Pact Armor"
+    },
+    "Pact Boon": {
+      "name": "Pact Boon"
+    },
+    "Pact Cantrip": {
+      "name": "Pact Cantrip"
+    },
+    "Pact Familiar": {
+      "name": "Pact Familiar"
+    },
+    "Pact Weapon": {
+      "name": "Pact Weapon"
+    },
+    "Prepared Spell": {
+      "name": "Prepared Spell"
+    },
+    "Quickened Spell": {
+      "name": "Quickened Spell"
+    },
+    "Rage": {
+      "name": "Rage"
+    },
+    "Ranger": {
+      "name": "Ranger"
+    },
+    "Ranger Stamina": {
+      "name": "Ranger Stamina"
+    },
+    "Remarkable Repertoire": {
+      "name": "Remarkable Repertoire"
+    },
+    "Resilient Magic": {
+      "name": "Resilient Magic"
+    },
+    "Rogue": {
+      "name": "Rogue"
+    },
+    "Rogue Stamina": {
+      "name": "Rogue Stamina"
+    },
+    "Sacred Role: Priest": {
+      "name": "Sacred Role: Priest"
+    },
+    "Sacred Role: Scribe": {
+      "name": "Sacred Role: Scribe"
+    },
+    "Sacred Role: Templar": {
+      "name": "Sacred Role: Templar"
+    },
+    "Sacrificial Bond": {
+      "name": "Sacrificial Bond"
+    },
+    "Scorpion Stance (Quick Strike)": {
+      "name": "Scorpion Stance (Quick Strike)"
+    },
+    "Second Wind": {
+      "name": "Second Wind"
+    },
+    "Sense Magic (Flavor Feature)": {
+      "name": "Sense Magic (Flavor Feature)"
+    },
+    "Shattering Force (Flavor Feature)": {
+      "name": "Shattering Force (Flavor Feature)"
+    },
+    "Skill Expertise": {
+      "name": "Skill Expertise"
+    },
+    "Slow Fall": {
+      "name": "Slow Fall"
+    },
+    "Sorcerer": {
+      "name": "Sorcerer"
+    },
+    "Sorcery (Flavor Feature)": {
+      "name": "Sorcery (Flavor Feature)"
+    },
+    "Spell Breaker": {
+      "name": "Spell Breaker"
+    },
+    "Spell School Initiate": {
+      "name": "Spell School Initiate"
+    },
+    "Spell Warder": {
+      "name": "Spell Warder"
+    },
+    "Spellblade": {
+      "name": "Spellblade"
+    },
+    "Spellblade Disciplines": {
+      "name": "Spellblade Disciplines"
+    },
+    "Spellblade Stamina": {
+      "name": "Spellblade Stamina"
+    },
+    "Spellbook (Flavor)": {
+      "name": "Spellbook (Flavor)"
+    },
+    "Spellstrike": {
+      "name": "Spellstrike"
+    },
+    "Spiritual Balanacne": {
+      "name": "Spiritual Balanacne"
+    },
+    "Subterranean": {
+      "name": "Subterranean"
+    },
+    "Subtle Spell": {
+      "name": "Subtle Spell"
+    },
+    "Swamp": {
+      "name": "Swamp"
+    },
+    "Technique Master": {
+      "name": "Technique Master"
+    },
+    "Thieves’ Cant (Flavor Feature)": {
+      "name": "Thieves’ Cant (Flavor Feature)"
+    },
+    "Transmuted Spell": {
+      "name": "Transmuted Spell"
+    },
+    "Tundra": {
+      "name": "Tundra"
+    },
+    "Turtle Stance (Sturdy)": {
+      "name": "Turtle Stance (Sturdy)"
+    },
+    "Uncanny Dodge": {
+      "name": "Uncanny Dodge"
+    },
+    "Unstable Magic": {
+      "name": "Unstable Magic"
+    },
+    "Urban": {
+      "name": "Urban"
+    },
+    "Veteran (Flavor Feature)": {
+      "name": "Veteran (Flavor Feature)"
+    },
+    "Warlock": {
+      "name": "Warlock"
+    },
+    "Warrior": {
+      "name": "Warrior"
+    },
+    "Wild Form": {
+      "name": "Wild Form"
+    },
+    "Wild Form Traits": {
+      "name": "Wild Form Traits"
+    },
+    "Wild Growth": {
+      "name": "Wild Growth"
+    },
+    "Wild Speech (Flavor)": {
+      "name": "Wild Speech (Flavor)"
+    },
+    "Wizard": {
+      "name": "Wizard"
+    },
+    "Wolf Stance (Hit & Run)": {
+      "name": "Wolf Stance (Hit & Run)"
+    }
+  }
+}
