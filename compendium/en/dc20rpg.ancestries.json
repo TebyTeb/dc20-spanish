@@ -1,0 +1,491 @@
+{
+  "label": "Ancestries",
+  "entries": {
+    "Agile Explore": {
+      "name": "Agile Explore"
+    },
+    "Agility Attribute Decrease": {
+      "name": "Agility Attribute Decrease"
+    },
+    "Already Cursed": {
+      "name": "Already Cursed"
+    },
+    "Angelborn": {
+      "name": "Angelborn"
+    },
+    "Angelic Insight": {
+      "name": "Angelic Insight"
+    },
+    "Attribute Decrease": {
+      "name": "Attribute Decrease"
+    },
+    "Attribute Increase": {
+      "name": "Attribute Increase"
+    },
+    "Beast Insight": {
+      "name": "Beast Insight"
+    },
+    "Beast Whisperer": {
+      "name": "Beast Whisperer"
+    },
+    "Beastborn": {
+      "name": "Beastborn"
+    },
+    "Beastkind": {
+      "name": "Beastkind"
+    },
+    "Blinding Light": {
+      "name": "Blinding Light"
+    },
+    "Brutal Strikes": {
+      "name": "Brutal Strikes"
+    },
+    "Brute": {
+      "name": "Brute"
+    },
+    "Burrow Speed": {
+      "name": "Burrow Speed"
+    },
+    "Burst of Bravery": {
+      "name": "Burst of Bravery"
+    },
+    "Camouflage": {
+      "name": "Camouflage"
+    },
+    "Celestial Clarity": {
+      "name": "Celestial Clarity"
+    },
+    "Celestial Magic": {
+      "name": "Celestial Magic"
+    },
+    "Charge": {
+      "name": "Charge"
+    },
+    "Charisma Attribute Decrease": {
+      "name": "Charisma Attribute Decrease"
+    },
+    "Charming Gaze": {
+      "name": "Charming Gaze"
+    },
+    "Climb Speed": {
+      "name": "Climb Speed"
+    },
+    "Clumsiness": {
+      "name": "Clumsiness"
+    },
+    "Cold Resistance": {
+      "name": "Cold Resistance"
+    },
+    "Concussive Breath": {
+      "name": "Concussive Breath"
+    },
+    "Critter Knowledge": {
+      "name": "Critter Knowledge"
+    },
+    "Cursed Mind": {
+      "name": "Cursed Mind"
+    },
+    "Darkvision": {
+      "name": "Darkvision"
+    },
+    "Deft Footwork": {
+      "name": "Deft Footwork"
+    },
+    "Discerning Sight": {
+      "name": "Discerning Sight"
+    },
+    "Divine Dampening": {
+      "name": "Divine Dampening"
+    },
+    "Divine Glow": {
+      "name": "Divine Glow"
+    },
+    "Draconic Affinity": {
+      "name": "Draconic Affinity"
+    },
+    "Draconic Breath Weapon": {
+      "name": "Draconic Breath Weapon"
+    },
+    "Draconic Protection": {
+      "name": "Draconic Protection"
+    },
+    "Draconic Resistance": {
+      "name": "Draconic Resistance"
+    },
+    "Draconic Ward": {
+      "name": "Draconic Ward"
+    },
+    "Dragonborn": {
+      "name": "Dragonborn"
+    },
+    "Dwarf": {
+      "name": "Dwarf"
+    },
+    "Dying Breath": {
+      "name": "Dying Breath"
+    },
+    "Earthen Knowledge": {
+      "name": "Earthen Knowledge"
+    },
+    "Echolocation": {
+      "name": "Echolocation"
+    },
+    "Elf": {
+      "name": "Elf"
+    },
+    "Elusive": {
+      "name": "Elusive"
+    },
+    "Elven Will": {
+      "name": "Elven Will"
+    },
+    "Escape Artist": {
+      "name": "Escape Artist"
+    },
+    "Extended Natural Weapon": {
+      "name": "Extended Natural Weapon"
+    },
+    "Fallen": {
+      "name": "Fallen"
+    },
+    "Fast Reflexes": {
+      "name": "Fast Reflexes"
+    },
+    "Fiendborn": {
+      "name": "Fiendborn"
+    },
+    "Fiendish Aura": {
+      "name": "Fiendish Aura"
+    },
+    "Fiendish Magic": {
+      "name": "Fiendish Magic"
+    },
+    "Fiendish Resistance": {
+      "name": "Fiendish Resistance"
+    },
+    "Finishing Blow": {
+      "name": "Finishing Blow"
+    },
+    "Fire Resistance": {
+      "name": "Fire Resistance"
+    },
+    "Flyby": {
+      "name": "Flyby"
+    },
+    "Frail": {
+      "name": "Frail"
+    },
+    "Full Flight": {
+      "name": "Full Flight"
+    },
+    "Giant’s Resolve": {
+      "name": "Giant’s Resolve"
+    },
+    "Giants Fortitude": {
+      "name": "Giants Fortitude"
+    },
+    "Gift of the Angels": {
+      "name": "Gift of the Angels"
+    },
+    "Gigantborn": {
+      "name": "Gigantborn"
+    },
+    "Glide Speed": {
+      "name": "Glide Speed"
+    },
+    "Gnome": {
+      "name": "Gnome"
+    },
+    "Guardians Bond": {
+      "name": "Guardians Bond"
+    },
+    "Halfling": {
+      "name": "Halfling"
+    },
+    "Halfling Bravery": {
+      "name": "Halfling Bravery"
+    },
+    "Halfling Endurance": {
+      "name": "Halfling Endurance"
+    },
+    "Hard Shell": {
+      "name": "Hard Shell"
+    },
+    "Hazardous Hide": {
+      "name": "Hazardous Hide"
+    },
+    "Healing Touch": {
+      "name": "Healing Touch"
+    },
+    "Heavy Riser": {
+      "name": "Heavy Riser"
+    },
+    "Human": {
+      "name": "Human"
+    },
+    "Human Determination": {
+      "name": "Human Determination"
+    },
+    "Human Resolve": {
+      "name": "Human Resolve"
+    },
+    "Imposing Presence": {
+      "name": "Imposing Presence"
+    },
+    "Infernal Bravery": {
+      "name": "Infernal Bravery"
+    },
+    "Intelligence Attribute Decrease": {
+      "name": "Intelligence Attribute Decrease"
+    },
+    "Intimidating Shout": {
+      "name": "Intimidating Shout"
+    },
+    "Intimidator": {
+      "name": "Intimidator"
+    },
+    "Iron Stomach": {
+      "name": "Iron Stomach"
+    },
+    "Jumper": {
+      "name": "Jumper"
+    },
+    "Keen Sense (Hearing)": {
+      "name": "Keen Sense (Hearing)"
+    },
+    "Keen Sense (Sight)": {
+      "name": "Keen Sense (Sight)"
+    },
+    "Keen Sense (Smell)": {
+      "name": "Keen Sense (Smell)"
+    },
+    "Light’s Bane": {
+      "name": "Light’s Bane"
+    },
+    "Lightning Insulation": {
+      "name": "Lightning Insulation"
+    },
+    "Limited Flight": {
+      "name": "Limited Flight"
+    },
+    "Long-Limbed": {
+      "name": "Long-Limbed"
+    },
+    "Magnified Vision": {
+      "name": "Magnified Vision"
+    },
+    "Mana Increase": {
+      "name": "Mana Increase"
+    },
+    "Mental Clarity": {
+      "name": "Mental Clarity"
+    },
+    "Might Attribute Decrease": {
+      "name": "Might Attribute Decrease"
+    },
+    "Mighty Hurl": {
+      "name": "Mighty Hurl"
+    },
+    "Mighty Leap": {
+      "name": "Mighty Leap"
+    },
+    "Mimicry": {
+      "name": "Mimicry"
+    },
+    "Minor Tremorsense": {
+      "name": "Minor Tremorsense"
+    },
+    "Natural Armor": {
+      "name": "Natural Armor"
+    },
+    "Natural Combatant": {
+      "name": "Natural Combatant"
+    },
+    "Natural Projectile": {
+      "name": "Natural Projectile"
+    },
+    "Natural Weapon": {
+      "name": "Natural Weapon"
+    },
+    "Natural Weapon Passive": {
+      "name": "Natural Weapon Passive"
+    },
+    "Nimble": {
+      "name": "Nimble"
+    },
+    "Orc": {
+      "name": "Orc"
+    },
+    "Orc Dash": {
+      "name": "Orc Dash"
+    },
+    "Orc Rush": {
+      "name": "Orc Rush"
+    },
+    "Orcish Resolve": {
+      "name": "Orcish Resolve"
+    },
+    "Pacifist": {
+      "name": "Pacifist"
+    },
+    "Peerless Sight": {
+      "name": "Peerless Sight"
+    },
+    "Physically Study": {
+      "name": "Physically Study"
+    },
+    "Plant Knowledge": {
+      "name": "Plant Knowledge"
+    },
+    "Powerful Build": {
+      "name": "Powerful Build"
+    },
+    "Predict Weather": {
+      "name": "Predict Weather"
+    },
+    "Prehensile Appendage": {
+      "name": "Prehensile Appendage"
+    },
+    "Provocation": {
+      "name": "Provocation"
+    },
+    "Prowler": {
+      "name": "Prowler"
+    },
+    "Radiant Resistance": {
+      "name": "Radiant Resistance"
+    },
+    "Radiant Weakness": {
+      "name": "Radiant Weakness"
+    },
+    "Reckless": {
+      "name": "Reckless"
+    },
+    "Redeemed": {
+      "name": "Redeemed"
+    },
+    "Rend": {
+      "name": "Rend"
+    },
+    "Reptilian Superiority": {
+      "name": "Reptilian Superiority"
+    },
+    "Resilience": {
+      "name": "Resilience"
+    },
+    "Retractable Natural Weapon": {
+      "name": "Retractable Natural Weapon"
+    },
+    "Second Breath": {
+      "name": "Second Breath"
+    },
+    "Secondary Arms": {
+      "name": "Secondary Arms"
+    },
+    "Shell Retreat": {
+      "name": "Shell Retreat"
+    },
+    "Shoot Webs": {
+      "name": "Shoot Webs"
+    },
+    "Short Legged": {
+      "name": "Short Legged"
+    },
+    "Silver-Tongued": {
+      "name": "Silver-Tongued"
+    },
+    "Skill Expertise": {
+      "name": "Skill Expertise"
+    },
+    "Small Sized": {
+      "name": "Small Sized"
+    },
+    "Speed Increase": {
+      "name": "Speed Increase"
+    },
+    "Spider Climb": {
+      "name": "Spider Climb"
+    },
+    "Sprint": {
+      "name": "Sprint"
+    },
+    "Stealth Feathers": {
+      "name": "Stealth Feathers"
+    },
+    "Stone Blood": {
+      "name": "Stone Blood"
+    },
+    "Storm Knowledge": {
+      "name": "Storm Knowledge"
+    },
+    "Strong Body": {
+      "name": "Strong Body"
+    },
+    "Strong Jumper": {
+      "name": "Strong Jumper"
+    },
+    "Strong Minded": {
+      "name": "Strong Minded"
+    },
+    "Stubborn": {
+      "name": "Stubborn"
+    },
+    "Sunlight Sensitivity": {
+      "name": "Sunlight Sensitivity"
+    },
+    "Superior Darkvision": {
+      "name": "Superior Darkvision"
+    },
+    "Swim Speed": {
+      "name": "Swim Speed"
+    },
+    "Thick-Skinned": {
+      "name": "Thick-Skinned"
+    },
+    "Titanic Toss": {
+      "name": "Titanic Toss"
+    },
+    "Tough": {
+      "name": "Tough"
+    },
+    "Toxic Constitution": {
+      "name": "Toxic Constitution"
+    },
+    "Toxic Fortitude": {
+      "name": "Toxic Fortitude"
+    },
+    "Trade Expertise": {
+      "name": "Trade Expertise"
+    },
+    "Trapper": {
+      "name": "Trapper"
+    },
+    "Umbral Weakness": {
+      "name": "Umbral Weakness"
+    },
+    "Unbreakable": {
+      "name": "Unbreakable"
+    },
+    "Undying": {
+      "name": "Undying"
+    },
+    "Unstoppable": {
+      "name": "Unstoppable"
+    },
+    "Unyielding Movement": {
+      "name": "Unyielding Movement"
+    },
+    "Venomous Natural Weapon": {
+      "name": "Venomous Natural Weapon"
+    },
+    "Water Breathing": {
+      "name": "Water Breathing"
+    },
+    "Web Walk": {
+      "name": "Web Walk"
+    },
+    "Winged Arms": {
+      "name": "Winged Arms"
+    }
+  }
+}

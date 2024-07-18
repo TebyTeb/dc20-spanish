@@ -1,0 +1,149 @@
+{
+  "label": "Example Heroes",
+  "entries": {
+    "Harriet Movos": {
+      "name": "Harriet Movos",
+      "tokenName": "Harriet Movos",
+      "items": {
+        "Burning Flames": {
+          "name": "Burning Flames"
+        },
+        "Fiendborn": {
+          "name": "Fiendborn"
+        },
+        "Beta Background": {
+          "name": "Beta Background"
+        },
+        "Sorcerer": {
+          "name": "Sorcerer"
+        },
+        "Fire Bolt": {
+          "name": "Fire Bolt"
+        },
+        "Chain Whip": {
+          "name": "Chain Whip"
+        },
+        "Psychic Fear": {
+          "name": "Psychic Fear"
+        },
+        "Darkvision": {
+          "name": "Darkvision"
+        },
+        "Innate Power": {
+          "name": "Innate Power"
+        },
+        "Mage Hand": {
+          "name": "Mage Hand"
+        },
+        "Magic Missile": {
+          "name": "Magic Missile"
+        },
+        "Novice Light Armor": {
+          "name": "Novice Light Armor"
+        },
+        "Fiendish Magic": {
+          "name": "Fiendish Magic"
+        },
+        "Fiendish Resistance": {
+          "name": "Fiendish Resistance"
+        },
+        "Light’s Bane": {
+          "name": "Light’s Bane"
+        },
+        "Overload Magic": {
+          "name": "Overload Magic"
+        },
+        "Sorcery (Flavor Feature)": {
+          "name": "Sorcery (Flavor Feature)"
+        },
+        "Sorcery": {
+          "name": "Sorcery"
+        },
+        "Unstable Magic": {
+          "name": "Unstable Magic"
+        },
+        "Misty Step": {
+          "name": "Misty Step"
+        }
+      }
+    },
+    "Irap'hak": {
+      "name": "Irap'hak",
+      "tokenName": "Irap'hak",
+      "items": {
+        "Beta Background": {
+          "name": "Beta Background"
+        },
+        "Draconic Breath Weapon": {
+          "name": "Draconic Breath Weapon"
+        },
+        "Parry": {
+          "name": "Parry"
+        },
+        "Heroic Leap": {
+          "name": "Heroic Leap"
+        },
+        "Novice Heavy Armor": {
+          "name": "Novice Heavy Armor"
+        },
+        "Kite Shield": {
+          "name": "Kite Shield"
+        },
+        "Fighter": {
+          "name": "Fighter"
+        },
+        "Adaptive Arsenal": {
+          "name": "Adaptive Arsenal"
+        },
+        "Dragonborn": {
+          "name": "Dragonborn"
+        },
+        "Darkvision": {
+          "name": "Darkvision"
+        },
+        "Extend Attack": {
+          "name": "Extend Attack"
+        },
+        "Power Attack": {
+          "name": "Power Attack"
+        },
+        "Sweep Attack": {
+          "name": "Sweep Attack"
+        },
+        "Swap": {
+          "name": "Swap"
+        },
+        "Bastard Sword": {
+          "name": "Bastard Sword"
+        },
+        "Bull Whip": {
+          "name": "Bull Whip"
+        },
+        "Shortbow": {
+          "name": "Shortbow"
+        },
+        "Fighter Stamina": {
+          "name": "Fighter Stamina"
+        },
+        "Reptilian Superiority": {
+          "name": "Reptilian Superiority"
+        },
+        "Bleed": {
+          "name": "Bleed"
+        },
+        "Know Your Enemy (Flavor Feature)": {
+          "name": "Know Your Enemy (Flavor Feature)"
+        },
+        "Draconic Resistance": {
+          "name": "Draconic Resistance"
+        },
+        "Technique Master": {
+          "name": "Technique Master"
+        },
+        "Trip": {
+          "name": "Trip"
+        }
+      }
+    }
+  }
+}

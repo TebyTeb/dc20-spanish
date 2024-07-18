@@ -1,0 +1,35 @@
+{
+  "label": "Talents",
+  "entries": {
+    "Adept Multiclass": {
+      "name": "Adept Multiclass"
+    },
+    "Attribute Increase": {
+      "name": "Attribute Increase"
+    },
+    "Expert Multiclass": {
+      "name": "Expert Multiclass"
+    },
+    "Grandmaster Multiclass": {
+      "name": "Grandmaster Multiclass"
+    },
+    "Legendary Multiclass": {
+      "name": "Legendary Multiclass"
+    },
+    "Martial Expansion": {
+      "name": "Martial Expansion"
+    },
+    "Master Multiclass": {
+      "name": "Master Multiclass"
+    },
+    "Multiclass": {
+      "name": "Multiclass"
+    },
+    "Skill or Trade Increase": {
+      "name": "Skill or Trade Increase"
+    },
+    "Spellcasting Expansion": {
+      "name": "Spellcasting Expansion"
+    }
+  }
+}

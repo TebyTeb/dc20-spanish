@@ -1,0 +1,114 @@
+{
+  "label": "Techniques",
+  "entries": {
+    "Bleed": {
+      "name": "Bleed"
+    },
+    "Body Block": {
+      "name": "Body Block"
+    },
+    "Chained Style": {
+      "name": "Chained Style"
+    },
+    "Crossbow Style": {
+      "name": "Crossbow Style"
+    },
+    "Daze": {
+      "name": "Daze"
+    },
+    "Expose": {
+      "name": "Expose"
+    },
+    "Extend Attack": {
+      "name": "Extend Attack"
+    },
+    "Forbearance": {
+      "name": "Forbearance",
+      "text": "When a creature you can see within 1 Space is targeted by an Attack, you can spend 1 AP and 1 SP as a Reaction to become the new target of the Check, and choose to switch places with the original target (if it's willing). If the Check is accompanied by a Save (as with a Dynamic Attack Save), you make the Save instead of the original target."
+    },
+    "Hamstring": {
+      "name": "Hamstring"
+    },
+    "Heroic Bash": {
+      "name": "Heroic Bash"
+    },
+    "Heroic Leap": {
+      "name": "Heroic Leap"
+    },
+    "Heroic Parry": {
+      "name": "Heroic Parry"
+    },
+    "Heroic Taunt": {
+      "name": "Heroic Taunt"
+    },
+    "Hinder": {
+      "name": "Hinder"
+    },
+    "Impair": {
+      "name": "Impair"
+    },
+    "Knockback": {
+      "name": "Knockback"
+    },
+    "Parry": {
+      "name": "Parry"
+    },
+    "Power Attack": {
+      "name": "Power Attack"
+    },
+    "Protect": {
+      "name": "Protect"
+    },
+    "Raise Shield": {
+      "name": "Raise Shield"
+    },
+    "Restrain": {
+      "name": "Restrain"
+    },
+    "Side Step": {
+      "name": "Side Step"
+    },
+    "Slam": {
+      "name": "Slam"
+    },
+    "Slip Away": {
+      "name": "Slip Away"
+    },
+    "Spear Style": {
+      "name": "Spear Style"
+    },
+    "Sunder Armor": {
+      "name": "Sunder Armor"
+    },
+    "Swap": {
+      "name": "Swap"
+    },
+    "Sweep Attack": {
+      "name": "Sweep Attack"
+    },
+    "Takedown": {
+      "name": "Takedown"
+    },
+    "Taunt": {
+      "name": "Taunt"
+    },
+    "Throw": {
+      "name": "Throw"
+    },
+    "Trip": {
+      "name": "Trip"
+    },
+    "Tumble and Dive": {
+      "name": "Tumble and Dive"
+    },
+    "Volley": {
+      "name": "Volley"
+    },
+    "Whip Style": {
+      "name": "Whip Style"
+    },
+    "Whirlwind": {
+      "name": "Whirlwind"
+    }
+  }
+}

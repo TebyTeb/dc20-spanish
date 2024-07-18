@@ -1,0 +1,182 @@
+{
+  "label": "Inventory",
+  "entries": {
+    "Adept Heavy Armor": {
+      "name": "Adept Heavy Armor"
+    },
+    "Adept Light Armor": {
+      "name": "Adept Light Armor"
+    },
+    "Bastard Sword": {
+      "name": "Bastard Sword"
+    },
+    "Battleaxe": {
+      "name": "Battleaxe"
+    },
+    "Blowgun": {
+      "name": "Blowgun"
+    },
+    "Bolas": {
+      "name": "Bolas"
+    },
+    "Boomerang": {
+      "name": "Boomerang"
+    },
+    "Brass Knuckles": {
+      "name": "Brass Knuckles"
+    },
+    "Buckler": {
+      "name": "Buckler"
+    },
+    "Bull Whip": {
+      "name": "Bull Whip"
+    },
+    "Chain Whip": {
+      "name": "Chain Whip"
+    },
+    "Club": {
+      "name": "Club"
+    },
+    "Dart": {
+      "name": "Dart"
+    },
+    "Expert Heavy Armor": {
+      "name": "Expert Heavy Armor"
+    },
+    "Expert Light Armor": {
+      "name": "Expert Light Armor"
+    },
+    "First Aid Kit": {
+      "name": "First Aid Kit"
+    },
+    "Frail": {
+      "name": "Frail"
+    },
+    "Gauntlet": {
+      "name": "Gauntlet"
+    },
+    "Glaive": {
+      "name": "Glaive"
+    },
+    "Great Whip": {
+      "name": "Great Whip"
+    },
+    "Greataxe": {
+      "name": "Greataxe"
+    },
+    "Greatbow": {
+      "name": "Greatbow"
+    },
+    "Greatmaul": {
+      "name": "Greatmaul"
+    },
+    "Greatsword": {
+      "name": "Greatsword"
+    },
+    "Halberd": {
+      "name": "Halberd"
+    },
+    "Hand Axe": {
+      "name": "Hand Axe"
+    },
+    "Hand Crossbow": {
+      "name": "Hand Crossbow"
+    },
+    "Healing Potion (Level 1)": {
+      "name": "Healing Potion (Level 1)"
+    },
+    "Heavy Crossbow": {
+      "name": "Heavy Crossbow"
+    },
+    "Javelin": {
+      "name": "Javelin"
+    },
+    "Kite Shield": {
+      "name": "Kite Shield"
+    },
+    "Light Crossbow": {
+      "name": "Light Crossbow"
+    },
+    "Light Hammer": {
+      "name": "Light Hammer"
+    },
+    "Long Spear": {
+      "name": "Long Spear"
+    },
+    "Longbow": {
+      "name": "Longbow"
+    },
+    "Longpole": {
+      "name": "Longpole"
+    },
+    "Longsword": {
+      "name": "Longsword"
+    },
+    "Meteor Hammer": {
+      "name": "Meteor Hammer"
+    },
+    "Mining Pick": {
+      "name": "Mining Pick"
+    },
+    "Morningstar": {
+      "name": "Morningstar"
+    },
+    "Net": {
+      "name": "Net"
+    },
+    "Novice Heavy Armor": {
+      "name": "Novice Heavy Armor"
+    },
+    "Novice Light Armor": {
+      "name": "Novice Light Armor"
+    },
+    "Pickaxe": {
+      "name": "Pickaxe"
+    },
+    "Pike": {
+      "name": "Pike"
+    },
+    "Quarterstaff": {
+      "name": "Quarterstaff"
+    },
+    "Rapier": {
+      "name": "Rapier"
+    },
+    "Round Shield": {
+      "name": "Round Shield"
+    },
+    "Scythe": {
+      "name": "Scythe"
+    },
+    "Short Sword": {
+      "name": "Short Sword"
+    },
+    "Shortbow": {
+      "name": "Shortbow"
+    },
+    "Sickle": {
+      "name": "Sickle"
+    },
+    "Sling": {
+      "name": "Sling"
+    },
+    "Spear": {
+      "name": "Spear"
+    },
+    "Throwing Dagger": {
+      "name": "Throwing Dagger"
+    },
+    "Throwing Star": {
+      "name": "Throwing Star"
+    },
+    "Unarmed Strike": {
+      "name": "Unarmed Strike"
+    },
+    "War Flail": {
+      "name": "War Flail"
+    },
+    "Warhammer": {
+      "name": "Warhammer"
+    }
+  }
+}

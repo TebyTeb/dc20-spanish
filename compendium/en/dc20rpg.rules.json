@@ -1,0 +1,274 @@
+{
+  "label": "Rules",
+  "entries": {
+    "Actions": {
+      "name": "Actions",
+      "pages": {
+        "Attack": {
+          "name": "Attack",
+          "text": "<p>You can spend <strong>1 AP</strong> to make 1 <strong>Attack Check</strong>.</p>"
+        },
+        "Disarm": {
+          "name": "Disarm",
+          "text": "<p>You can spend <strong>1 AP</strong> to make an <strong>Attack Check</strong> Contested by the target's <strong>Athletics</strong>, <strong>Acrobatics</strong>, or <strong>Trickery Check</strong> (targets choice), the target has ADV if they are holding the object with 2 hands. You have DisADV if the target is larger than you. You cannot Disarm a creature that is 2 Sizes larger than you.<br /><br /><strong>Success:</strong> The targeted object falls into an unoccupied space of your choice within 1 Spaces of the creature.</p>"
+        },
+        "Grapple": {
+          "name": "Grapple",
+          "text": "<p>Using a free hand, you can spend <strong>1 AP</strong> to attempt to <strong>Grapple</strong> another creature. Make an <strong>Athletics Check</strong> contested by the opposing creature's <strong>Martial Check</strong>. You or the target may have ADV or DisADV on your Check based on each other's size (see Moving &amp; Grappling Creatures). <br /><strong>Success:</strong> The creature is <strong>Grappled</strong> by you.<br /><br /><strong>Dragging:</strong> You can move a creature that you have grappled to any Space adjacent to your own by spending your <strong>Movement</strong>. Alternatively, you can move the creature with you, but you are considered to be Slowed (Every 1 Space you move costs an extra 1 Space of movement).<br /><br /><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Ending a Grapple</span></strong></span></p><ul><li><p><strong>Escape Grapple:</strong> You can spend <strong>1 AP</strong> to attempt to free yourself from a <strong>Grapple</strong>. Make a <strong>Martial Check</strong> contested by the opposing creatures <strong>Athletics Check</strong>.<br /><strong>Success:</strong> You end the <strong>Grappled</strong> Condition on yourself.</p></li><li><strong>Incapacitated Grappler:</strong> If you become <strong>Incapacitated</strong>, the Grapple immediately ends.</li><li><p><strong>Forced Movement:</strong> If an effect attempts to forcibly move the target beyond your reach, you make the Check or Save instead of the target. If the effect targets both you and the target, you make 1 Check or Save for both of you.<br /><strong>Success:</strong> The targets of the effect aren't moved.<br /><strong>Fail:</strong> The Grapple immediately ends, and the targets of the effect are moved.</p></li><li><strong>Falling:</strong> If the target begins falling (and you don't), the Grapple ends if you can't carry the target's weight. If you can carry its weight, you hold it suspended in the air.</li></ul><p></p>"
+        },
+        "Shove": {
+          "name": "Shove",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to push a creature within 1 Space of you. Make an <strong>Athletics Check</strong> contested by the target's <strong>Martial Check.</strong> <br /><strong>Success:</strong> You push the creature 1 Space away from you or to its left or right. <br /><strong>Success (each 5):</strong> Push up to 1 additional Space. <br /><br /><strong>Knock Prone:</strong> After the result, you can choose to reduce the total distance the target is pushed by 1 Space to knock them <strong>Prone</strong> instead.</p>"
+        },
+        "Tackle": {
+          "name": "Tackle",
+          "text": "<p>If you move at least 2 Spaces in a straight line, you can spend <strong>1 AP</strong> to attempt to Tackle a creature that is your same size or smaller. Make an <strong>Athletics Check</strong> contested by the target's <strong>Martial Check.</strong> <br /><br /><strong>Success:</strong> You <strong>Grapple</strong> the target, you both move 1 Space in the same direction you're moving, and immediately fall <strong>Prone</strong>.<br /><strong>Success (each 5):</strong> +1 Space moved.</p>"
+        },
+        "Disengage": {
+          "name": "Disengage",
+          "text": "<p>You can spend <strong>1 AP</strong> to impose DisADV on <strong>Opportunity Attacks</strong> made against you until the start of your next turn.</p>"
+        },
+        "Full Disengage": {
+          "name": "Full Disengage",
+          "text": "<p>You can spend <strong>2 AP</strong> to become immune to <strong>Opportunity Attacks</strong> until the start of your next turn.</p>"
+        },
+        "Dodge": {
+          "name": "Dodge",
+          "text": "<p>You can spend <strong>1 AP</strong> to impose DisADV on on the next <strong>Attack Check</strong> or <strong>Spell Check</strong> made against you until the start of your next turn.</p>"
+        },
+        "Full Dodge": {
+          "name": "Full Dodge",
+          "text": "<p>You can spend <strong>2 AP</strong> to impose DisADV on all <strong>Attacks</strong> made against you until the start of your next turn.</p>"
+        },
+        "Offensive": {
+          "name": "Offensive"
+        },
+        "Defensive": {
+          "name": "Defensive"
+        },
+        "Hide": {
+          "name": "Hide",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to <strong>Hide</strong> from 1 or more creatures that can't see you (<strong>Unseen</strong>). Make a <strong>Stealth Check</strong> against the opposing creatures <strong>Passive Awareness</strong>. <br /><strong>Success:</strong> You become <strong>Hidden</strong> from creatures whose <strong>Passive Awareness</strong> you beat, (making you <strong>Unseen</strong> and <strong>Unheard</strong> by them). You remain <strong>Hidden</strong> until you make a noise louder than a whisper, make an <strong>Attack</strong>, cast a <strong>Spell</strong> with a <strong>Verbal Component</strong>, or a creature takes the <strong>Search Action</strong> and successfully locates you.</p><ul><li><strong>Unheard:</strong> You are Unheard while you remain silent, talk no louder than a whisper, or are within an area affected by the Silence Spell.</li><li><strong>Unseen:</strong> You are Unseen by a creature while you are imperceivable to its visual senses, such as when you are outside its <strong>Line of Sight</strong> (behind <strong>Full Cover</strong>), it's <strong>Blinded</strong>, or you are obscured from it such as by being <strong>Invisible</strong>. Creatures that can't see you are <strong>Exposed</strong> (your Attacks against them have ADV) and <strong>Hindered</strong> against you (they have DisADV on Attacks against you).</li><li><strong>Hidden:</strong> While you are both <strong>Unheard</strong> and <strong>Unseen</strong>, you are considered <strong>Hidden</strong>, and your location or presence unknown to other creatures.</li></ul><p><br />(see “Hidden Creatures” for more info).</p>"
+        },
+        "Utility": {
+          "name": "Utility"
+        },
+        "Spell": {
+          "name": "Spell",
+          "text": "<p>You can spend 1 or more <strong>AP</strong> to cast a <strong>Spell</strong> that you know. If the <strong>Spell</strong> has a <strong>Mana Point</strong> requirement, you must spend that much <strong>MP</strong> to cast the <strong>Spell</strong>.</p>"
+        },
+        "Move": {
+          "name": "Move",
+          "text": "<p>You can spend <strong>1 AP</strong> to move up to your Speed in Spaces (default of 5). It chooses where to move, and can break up its movement by moving before and after taking a different <strong>Action</strong>. You can't end your turn in a Space occupied by another creature.</p>"
+        },
+        "Help": {
+          "name": "Help",
+          "text": "<p>You can spend <strong>1 AP</strong> to grant a creature a <strong>d8</strong> <strong>Help Die</strong> that lasts until the start of your next turn. Upon granting the <strong>Help Die</strong>, you must declare which Creature you are Helping and the type of Check you will be aiding them with, while meeting the following conditions:</p><ul><li><strong>Attack:</strong> You declare 1 target for the Check. You must be within 1 Space of the Attacker or the target of the Attack. While the <strong>Help Die</strong> lasts, it can be added to the <strong>Attack</strong> made against the target.</li><li><strong>Skill or Trade Check:</strong> You declare a type of Skill or Trade Check. You describe how you are Helping them and must do so using a Skill or Trade that you have at least 1 Mastery Level in. You can use the same Skill or Trade or a different one.</li></ul><p><br />The <strong>Help Die</strong> can only be used to aid the type of Check declared.<br /><br /><strong>Multiple Help Penalty:</strong> Once you take the Help Action, each time you take the Help Action again before the end of your turn, your <strong>Help Die</strong> decay by 1 step, to a minimum of a d4 (d8 | d6 | d4). These Help Dice only decay when using the Help Action. Help Die granted by other sources (such as the Sword Maneuver) decay independently of any Help Dice grant through the Help Action.</p>"
+        },
+        "Object": {
+          "name": "Object",
+          "text": "<p>You can spend <strong>1 AP</strong> to perform 1 of the following object interactions: <br /></p><ul><li>Drink a Potion or Administer a Potion to another Creature.</li><li>Attempt to Lock or Unlock a Lock.</li><li>Make a <strong>Trickery Check</strong> to activate or disable a trap or other mechanism.</li><li>Transfer and Item to or from another Creature (only 1 of the two creatures spends <strong>1 AP</strong>).</li><li>Throw an Item to location you can see up to 5 Spaces away.</li></ul>"
+        },
+        "Pass Through": {
+          "name": "Pass Through",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to move through a Space occupied by a hostile creature that's within 1 size of you. Make a contested <strong>Martial Check</strong> against the target.<br /><br /><strong>Success:</strong> You can move through the creature's Space as if it were <strong>Difficult Terrain</strong>(<strong>Slowed 1</strong> while moving through the area).</p>"
+        },
+        "Skill Based": {
+          "name": "Skill Based"
+        },
+        "Analyze Creature": {
+          "name": "Analyze Creature",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to recall or discern some information about a creature that you can see or hear. Make a <strong>DC 10 Knowledge Check</strong> determined by the GM.<br /><br /><strong>Success:</strong> You learn a piece of lore about the creature.<br /><strong>Success(5):</strong> You learn 1 creature statistic (PD, MD, Attacks, Abilities, Resistances, Vulnerabilities, Immunities, etc.).<br /><strong>Success(10):</strong> +1 creature statistic.</p>"
+        },
+        "Calm Animal": {
+          "name": "Calm Animal",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to beguile a Beast that can see or hear you. Make an <strong>Animal Check</strong> contested by the target's <strong>Charisma Save</strong>.<br /><br /><strong>Success:</strong> The animal is <strong>Taunted</strong> by you for 1 minute (Repeated Save) or until you target it with a harmful <strong>Attack</strong>, <strong>Spell</strong>, or other effect.<br /><strong>Success(5):</strong> It's also <strong>Impaired</strong>.<br /><strong>Success(10):</strong> It's also <strong>Charmed</strong>.</p>"
+        },
+        "Combat Insight": {
+          "name": "Combat Insight",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to discern the course of actions a creature might take on its next turn. Make an <strong>Insight Check</strong> contested by the target's <strong>Trickery</strong> or <strong>Influence Check</strong> (its choice).<br /><br /><strong>Success:</strong> You learn the target's emotional state and whether it plans to make an <strong>Attack</strong>, cast a <strong>Spell</strong>, or flee combat during its next turn.<br /><strong>Success(5):</strong> You know who the creature is likely to target with a harmful ability.<br /><strong>Success(10):</strong> You know which ability the creature plans to use.</p>"
+        },
+        "Conceal": {
+          "name": "Conceal",
+          "text": "<p>You can spend <strong>1 AP</strong> to hide an object on yourself or in nearby foliage, debris, or decor to render it <strong>Hidden</strong>. Make a contested <strong>Trickery Check</strong> against the <strong>Passive Awareness</strong> of creatures that can see you.<br /><br /><strong>Success:</strong> The object is <strong>Hidden</strong> from any creature whose <strong>Passive Awareness</strong> you beat.</p>"
+        },
+        "Feint": {
+          "name": "Feint",
+          "text": "<p>You can spend <strong>1 AP</strong> to make <strong>Trickery Check</strong> contested by the target's <strong>Insight Check</strong>.<br /><br /><strong>Success:</strong> The next <strong>Attack</strong> against the target before the start of your next turn has ADV and deals +1 damage.</p>"
+        },
+        "Intimidate": {
+          "name": "Intimidate",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to intimidate a creature that can see or hear you.Make a contested <strong>Intimidation Check</strong> contested by the target's <strong>Charisma Save</strong>.<br /><br /><strong>Success:</strong> The target is <strong>Intimidated</strong> by you until the end of your next turn.</p>"
+        },
+        "Investigate": {
+          "name": "Investigate",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to uncover a concealed object on a creature, a secret compartment, or the intended function of a mechanism within 1 Space of you.</p><ul><li><p><strong>Concealed Objects:</strong> You can attempt to uncover any objects concealed on a creature. Make an <strong>Investigation Check</strong> contested by the target's <strong>Trickery Check</strong>. <br /><strong>Success:</strong> You know the location of any concealed object on the creature.</p></li><li><p><strong>Secret Compartments:</strong> You can attempt to uncover any secret compartments. Make an <strong>Investigation Check</strong> against the <strong>discovery DC</strong> of any secret compartments. <br /><strong>Success:</strong> You discover the location of any secret compartments whose <strong>discovery DC</strong> you beat.</p></li><li><p><strong>Discern Mechanism:</strong> You can attempt to discern the functionality of a mechanism (the effect of a trap, how to open a secret door, or activate a device). Make an <strong>Investigation Check</strong>. <br /><strong>Success:</strong> You learn how the mechanism works and the methods to activate and disable it (if any).</p></li></ul><p></p>"
+        },
+        "Jump": {
+          "name": "Jump",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to increase the distance you can cover when Jumping. Make a <strong>DC 10 Martial Check</strong>.</p><ul><li><p><strong>Long Jump Success:</strong> You can move 1 additional Space as part of your Long Jump. <br /><strong>Success(each 5):</strong> +1 additional Space.</p></li><li><p><strong>High Jump Success:</strong> : You can move an additional 1ft (30cm) as part of your High Jump. <br /><strong>Success(each 5):</strong> +1ft (30cm).</p></li></ul>"
+        },
+        "Mounted Defence": {
+          "name": "Mounted Defence",
+          "text": "<p>You can spend <strong>1 AP</strong> to maneuver a mount you are riding to avoid danger. Make a <strong>DC 10 Animal Check</strong>.<br /><br /><strong>Success:</strong> The mount's PD increases by 2 until the start of your next turn.<br /><strong>Success(5):</strong> +2 PD.<br /><strong>Success(10):</strong> +4 PD.</p>"
+        },
+        "Medicine": {
+          "name": "Medicine",
+          "text": "<p>You can spend <strong>1 AP</strong> to touch a creature and tend to its wounds. Make a <strong>DC 10 Medicine Check</strong>.<br /><br /><strong>Success:</strong> You stop its Bleeding or Stabilize it (your choice).<br /><strong>Success(5):</strong> The creature gains +1 Temp HP.</p>"
+        },
+        "Search": {
+          "name": "Search",
+          "text": "<p>You can spend <strong>1 AP</strong> to attempt to locate 1 or more <strong>Hidden</strong> creatures and concealed objects within your Line of Sight.</p><ul><li><p><strong>Hidden Creatures:</strong> You attempt to locate any <strong>Hidden</strong> creatures in the area. Make an <strong>Awareness Check</strong> against the <strong>Stealth Check</strong> of any Hidden creatures.<br /><strong>Success:</strong> You know the location of any <strong>Hidden</strong> creature whose <strong>Stealth Check</strong> you beat until the end of your turn.</p></li><li><p><strong>Hidden Objects:</strong> You attempt to locate any <strong>Hidden</strong> objects in the area. Make an <strong>Awareness Check</strong> against the DC to discover any concealed objects (such as traps, secret doors, or hidden items).<br /><strong>Success:</strong> You discover the location of any <strong>Hidden</strong> object whose discovery DC you beat.</p></li></ul>"
+        },
+        "Reaction": {
+          "name": "Reaction"
+        },
+        "Attack of Opportunity": {
+          "name": "Attack of Opportunity",
+          "text": "<p><span style=\"text-decoration:underline\"><em><strong><span style=\"text-decoration:underline\">Prerequisite:</span></strong></em></span><em> any Martial Class Feature</em><br /><br /><strong>Trigger:</strong> A creature you can see within your Melee Range, uses its movement to leave your Melee Range, stands up from Prone, picks up an item off the ground, or takes the <strong>Object Action</strong>.<br /><br /><strong>Reaction:</strong> You can spend <strong>1 AP</strong> to make an Attack Check with an Unarmed Strike or a Melee Weapon that you are wielding against the provoking creature. You can spend additional <strong>AP</strong> to gain <strong>ADV</strong> or to perform Maneuvers with the Attack.</p>"
+        },
+        "Spell Duel": {
+          "name": "Spell Duel",
+          "text": "<p><span style=\"text-decoration:underline\"><em><strong><span style=\"text-decoration:underline\">Prerequisite:</span></strong></em></span><em> any Spellcasting Class Feature</em><br /><br /><strong>Trigger:</strong> When another creature that you can see casts a Spell. <br /><br /><strong>Reaction:</strong> You declare a Spell Duel and spend <strong>2 AP</strong> and 1 or more <strong>MP</strong> to challenge the creature with a Spell of your own. You can declare a Spell Duel after the creature makes its Spell Check but before you know the result of its Check. <br /><br /><strong>Multiple Participants:</strong> Additional creatures can choose to participate in helping the Spell take effect or participate in stopping the Spell from taking effect. If multiple creatures choose to participate in the Spell Duel, the participants are sorted into <strong>Initiators</strong> (those trying to help the Spell take effect) and <strong>Challengers</strong> (those trying to prevent the Spell from taking effect). <br />During the Contest (see further below) every participant makes their Spell Check, and the highest Initiator result is compared against the highest Challenger result to determine the outcome.<br /><br /><strong>Choosing a Spell:</strong> You declare which Spell you are using to challenge the opposing Spell and then describe how you do so using your Spell. The GM decides if that makes sense.<br /><strong>Targeted:</strong> If your chosen Spell targets 1 or more creatures or objects, you must be able to target the opposing creature or any of its targets with your Spell.<br /><strong>Area of Effect:</strong> If your chosen Spell covers an area (such as an Arc, Cone, Cube, Cylinder, Line, or Sphere), then your Spell's Area of Effect must include the opposing creature, any of its targets, or cover an area between the opposing creature and any of its targets.<br /><strong>Success &amp; Failure:</strong> The success and failure statements of your Spell are replaced by the success and failure statements in the Contest section below.<br /><br /><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Contest</span></strong></span><br />The Spell Check the opposing creature makes to cast its Spell is Contested by the Spell Check you make to cast your Spell. When comparing the Spell Checks for the purpose of determining the winner of the Contest, each creature gains a bonus to its Check equal to the MP it spent on its Spell.<br /><strong>• Success:</strong> The target creature's Spell fails and has no effect.<br /><strong>• Failure:</strong> The target creature's Spell succeeds and takes effect.<br /><strong>• Tie:</strong> The target creature's Spell fails, has no effect, and you each roll on the Wild Magic Surge Table.The effect from the table lasts until the end of your next turn.Whatever the result, each creature still spends all AP, MP, or other resources they spent to cast their Spell.</p>"
+        }
+      }
+    },
+    "Conditions": {
+      "name": "Conditions",
+      "pages": {
+        "Bleeding": {
+          "name": "Bleeding",
+          "text": "<p>You take <strong>1 True</strong> damage at the start of each of your turns.</p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Ending Bleeding</span></strong></span></p><ul><li><p><strong>Healed:</strong> You’re subjected to an effect that restores your HP.</p></li><li><p><strong>Medicine Action:</strong> A creature can spend 1 AP to make a <strong>DC 10 Medicine Check</strong> on itself or another creature within 1 Space. <br /><strong>Success:</strong> Removes the Bleeding Condition. <br /><strong>Success (each 5):</strong> The creature gains +1 Temp HP.</p></li></ul>"
+        },
+        "Blinded": {
+          "name": "Blinded",
+          "text": "<p>You automatically fail Checks that require Sight and all other creatures are considered <strong>Unseen</strong>. You are <strong>Exposed</strong> (Attacks against you have ADV) and <strong>Hindered</strong> (You have DisADV on Attacks). Additionally, while you’re not guided by another creature, all terrain is Difficult Terrain to you (moving 1 Space costs 2 Spaces).</p>"
+        },
+        "Burning": {
+          "name": "Burning",
+          "text": "<p>You take <strong>1 Fire</strong> damage at the start of each of your turns. You or another creature within 1 Space can spend <strong>1 AP</strong> to put it out.</p>"
+        },
+        "Charmed": {
+          "name": "Charmed",
+          "text": "<p>Your Charmer has ADV on Charisma Checks made against you. Additionally, you can’t target your Charmer with harmful Attacks, abilities, or magic effects.</p>"
+        },
+        "Dazed": {
+          "name": "Dazed",
+          "text": "<p>You have DisADV on Mental Checks.</p>"
+        },
+        "Heavily Dazed": {
+          "name": "Heavily Dazed",
+          "text": "<p>You have DisADV on Mental Checks and Saves.</p>"
+        },
+        "Deafened": {
+          "name": "Deafened",
+          "text": "<p>You automatically fail Checks that require Hearing, and all creatures are considered Unheard by you. Additionally, you have <strong>Resistance</strong> to Sonic damage.</p>"
+        },
+        "Doomed": {
+          "name": "Doomed",
+          "text": "<p>The HP threshold of Death’s Door for determining death is decreased by an amount equal to the value of X.</p><p>If your Doomed value is ever equal to or higher than your Death's Door threshold, you instantly die upon reaching 0 HP. You lose all stacks of Doomed when you complete a Long Rest.</p>"
+        },
+        "Exhaustion": {
+          "name": "Exhaustion",
+          "text": "<p>You gain a penalty equal to X on all <strong>Checks</strong> and <strong>Saves</strong> you make. </p><p>Additionally your <strong>Speed</strong> and <strong>Save DC</strong> is reduced by X as well. </p><p>If a creature ever reaches Exhaustion 6, they immediately die.</p>"
+        },
+        "Exposed": {
+          "name": "Exposed",
+          "text": "<p>Attacks against you have ADV.</p>"
+        },
+        "Frightened": {
+          "name": "Frightened",
+          "text": "<p>You must spend your turns trying to move as far away as you can from the source of the effect as possible.</p><p>The only Action you can take is the Move Action to try to run away, or the Dodge Action if you’re prevented from moving or there’s nowhere farther to move.</p><p>You’re also considered <strong>Rattled</strong> (you can’t move closer to the source) and <strong>Intimidated</strong> (DisADV on all Checks while it’s within your line of sight).</p>"
+        },
+        "Grappled": {
+          "name": "Grappled",
+          "text": "<p>Your Speed becomes 0 and you have DisADV on Agility Saves</p><p></p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Ending a Grapple</span></strong></span></p><ul><li><p><strong>Escape Grapple:</strong> You can spend <strong>1 AP</strong> to attempt to free yourself from a Grapple. Make a Martial Check contested by the Grappler’s Athletics Check. <br /><strong>Success:</strong> The Grapple immediately ends.</p></li><li><p><strong>Incapacitated Grappler:</strong> If the Grappler becomes Incapacitated, the Grapple immediately ends.</p></li><li><p><strong>Forced Movement: </strong>If an effect attempts to forcibly move you beyond the Grappler’s reach, the Grappler makes the Check or Save instead of you. If the effect targets both you and the Grappler, the Grappler makes 1 Check or Save for both of you. <strong>Success:</strong> The targets of the effect aren’t moved. <strong>Failure:</strong> The Grapple immediately ends, and the targets of the effect are moved.</p></li><li><p><strong>Falling:</strong> If you begin falling while Grappled, and your Grappler isn't falling with you, your Grappler holds you in the air if they can carry your weight.</p></li></ul>"
+        },
+        "Hindered": {
+          "name": "Hindered",
+          "text": "<p>You have DisADV on Attacks.</p>"
+        },
+        "Impaired": {
+          "name": "Impaired",
+          "text": "<p>You have DisADV on Physical Checks.</p>"
+        },
+        "Heavily Impaired": {
+          "name": "Heavily Impaired",
+          "text": "<p>You have DisADV on Physical Checks and Saves.</p>"
+        },
+        "Incapacitated": {
+          "name": "Incapacitated",
+          "text": "<p>You can’t Speak, Concentrate, or spend Action Points.</p>"
+        },
+        "Intimidated": {
+          "name": "Intimidated",
+          "text": "<p>You have DisADV on all Checks while your source of intimidation is within your line of sight.</p>"
+        },
+        "Invisible": {
+          "name": "Invisible",
+          "text": "<p>You’re Unseen, making creatures that can’t see you <strong>Exposed</strong> (your Attacks against them have ADV) and <strong>Hindered</strong> against you (they have DisADV on Attacks against you).</p>"
+        },
+        "Paralyzed": {
+          "name": "Paralyzed",
+          "text": "<p>Attacks made from within 1 Space that hit you are considered Critical Hits. You’re also <strong>Stunned</strong> (automatically fail Agility, Might, and Physical Saves), <strong>Exposed</strong> (Attacks against you have ADV), and <strong>Incapacitated</strong> (you can’t Speak, Concentrate, or spend Action Points).</p>"
+        },
+        "Petrified": {
+          "name": "Petrified",
+          "text": "<p>You and your mundane belongings are turned into stone and you’re no longer aware of your surroundings. You become 10 times heavier and have <strong>Resistance (Half)</strong> to all damage. Any Poisons or Diseases already affecting you are suspended and you’re immune to any additional Poison and Disease while Petrified.</p><p>You’re also <strong>Paralyzed</strong> (Attacks that Hit you are considered Critical Hits if the Attacker is within 1 Space of you), <strong>Stunned</strong> (automatically fail Agility, Might, and Physical Saves), <strong>Exposed</strong> (Attacks against you have ADV), and <strong>Incapacitated</strong> (you can’t Speak, Concentrate, or spend Action Points).</p>"
+        },
+        "Poisoned": {
+          "name": "Poisoned",
+          "text": "<p>You’re <strong>Impaired</strong> (DisADV on Physical Checks) and take 1 Poison damage at the start of each of your turns.</p><p>A creature can spend <strong>1 AP</strong> to make a Medicine Check (against the DC of the Poison) on itself or another creature within 1 Space.</p><p><strong>Success:</strong> Removes the Poisoned Condition.</p>"
+        },
+        "Prone": {
+          "name": "Prone",
+          "text": "<p>While <strong>Prone</strong>, you’re subjected to the following effects:</p><ul><li><p>You’re <strong>Hindered</strong> (You have DisADV on Attacks).</p></li><li><p>Ranged Attacks are <strong>Hindered</strong> against you.</p></li><li><p>You’re <strong>Exposed</strong> (Attacks against you have ADV) against Melee Attacks.</p></li></ul><p><strong>Crawling:</strong> Your only movement option is to Crawl, which counts as Slowed 1 (Every 1 Space you move costs an extra 1 Space of movement).</p><p><strong>Standing Up:</strong> You can spend 2 Spaces of movement to stand up, ending the <strong>Prone</strong> Condition on yourself. Standing up from Prone provokes Opportunity Attacks.</p>"
+        },
+        "Rattled": {
+          "name": "Rattled",
+          "text": "<p>You can’t willingly move closer to your source of fear, and you’re <strong>Intimidated</strong> (DisADV on all Checks while it’s within your line of sight).</p>"
+        },
+        "Restrained": {
+          "name": "Restrained",
+          "text": "<p>You’re <strong>Hindered</strong> (you have DisADV on Attacks), <strong>Exposed</strong> (Attacks against you have ADV), and <strong>Grappled</strong> (your Speed is reduced to 0 and you have DisADV on Agility Saves).</p>"
+        },
+        "Slowed": {
+          "name": "Slowed",
+          "text": "<p>Every 1 Space you move costs an extra 1 Space of movement.</p>"
+        },
+        "Stunned": {
+          "name": "Stunned",
+          "text": "<p>You automatically fail Agility, Might, and Physical Saves. You’re also <strong>Exposed</strong> (Attacks against you have ADV) and <strong>Incapacitated</strong> (you can’t Speak, Concentrate, or spend Action Points).</p>"
+        },
+        "Surprised": {
+          "name": "Surprised",
+          "text": "<p>You can’t spend Action Points and are <strong>Exposed</strong> (Attacks against you have ADV).</p>"
+        },
+        "Taunted": {
+          "name": "Taunted",
+          "text": "<p>You have DisADV on Attacks against creatures other than the one that Taunted you.</p>"
+        },
+        "Unconscious": {
+          "name": "Unconscious",
+          "text": "<p>You’re no longer aware of your surroundings, you drop whatever you’re holding, and you fall <strong>Prone</strong>.</p><p>You’re also <strong>Paralyzed</strong> (Attacks made from within 1 Space that Hit you are considered Critical Hits), <strong>Stunned</strong> (automatically fail Agility, Might, and Physical Saves), <strong>Exposed</strong> (Attacks against you have ADV), and <strong>Incapacitated</strong> (you can’t Speak, Concentrate, or spend Action Points).</p>"
+        },
+        "Well-Bloodied": {
+          "name": "Well-Bloodied",
+          "text": "<p>Your HP is equal to or lower than 25% of your HP maximum.</p>"
+        },
+        "Bloodied": {
+          "name": "Bloodied",
+          "text": "<p>Your HP is equal to or lower than 50% of your HP maximum.</p>"
+        },
+        "Concentration": {
+          "name": "Concentration",
+          "text": "<p>Some Spells require the caster to maintain Concentration for the effects of that Spell to persist. Things can happen to you (like taking damage) that cause you to make a <strong>Mental</strong> <strong>Save</strong> to maintain <strong>Concentration</strong>.</p><p>You can only maintain Concentration on 1 effect at a time. If you successfully cast a 2nd Spell that requires Concentration, you lose Concentration on the 1st Spell immediately.</p><p></p><p><span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">Maintaining Concentration</span></strong></span></p><p>Whenever you take damage or are put into a distracting or dangerous situation (GM’s discretion) you must make a <strong>Mental</strong> <strong>Save</strong> in order to maintain Concentration.</p><p>The DC is equal to 10 or double the amount of damage taken (whichever is higher).</p>"
+        },
+        "Dead": {
+          "name": "Dead",
+          "text": "<p>You are dead.</p>"
+        }
+      }
+    }
+  }
+}
