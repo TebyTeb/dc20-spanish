@@ -4,7 +4,12 @@
   "description": "Traducción NO OFICIAL de los compendios del sistema DC20 desarrollado por @pazindorb.",
   "authors": [
     {
-      "name": "TebyTeb"
+      "name": "TebyTeb",
+      "discord": "TebyTeb"
+    },
+    {
+      "name": "Juancho",
+      "discord": "juancho.carrillo"
     }
   ],
   "version": "0.0.1",
@@ -14,6 +19,13 @@
   },
   "esmodules": [
     "register.js"
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "lang/es.json"
+    }
   ],
   "relationships": {
     "systems": [
