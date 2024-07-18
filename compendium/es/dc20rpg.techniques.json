@@ -23,7 +23,8 @@
       "name": "Extend Attack"
     },
     "Forbearance": {
-      "name": "Forbearance"
+      "name": "Forbearance",
+      "text": "When a creature you can see within 1 Space is targeted by an Attack, you can spend 1 AP and 1 SP as a Reaction to become the new target of the Check, and choose to switch places with the original target (if it's willing). If the Check is accompanied by a Save (as with a Dynamic Attack Save), you make the Save instead of the original target."
     },
     "Hamstring": {
       "name": "Hamstring"
